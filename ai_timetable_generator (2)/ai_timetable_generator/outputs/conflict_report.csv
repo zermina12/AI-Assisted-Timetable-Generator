@@ -1,0 +1,183 @@
+﻿Stage,Kind,Day,Period,Room,Detail,Involved
+INPUT,section,Mon,10:00-11:30,F-305,Section: BCS-3A Day: Mon Period: 10:00-11:30,COAL (BCS-3A/BCS-5A): Aatira A | English (BCS-1A/BCS-3A): Nokhaiz Z
+INPUT,section,Mon,14:30-16:00,F-209,Section: BCS-3A Day: Mon Period: 14:30-16:00,Quran-I/II (BCS-3A/BCS-5A): Hamza J | Ideology (BCS-1A/BCS-3A): A Sattar
+INPUT,section,Thu,10:00-11:30,F-203,Section: BCS-3A Day: Thu Period: 10:00-11:30,Data Structures (BCS-3A/BCS-5A): Zareen A | PF (BCS-1A/BCS-3A)
+INPUT,section,Thu,11:30-13:00,S. Hall,Section: BCS-3A Day: Thu Period: 11:30-13:00,Linear (BCS-3A/BCS-5A): Akhlaq A | Calculus (BCS-1A/BCS-3A): Saeeda Z
+INPUT,section,Tue,10:00-11:30,F-203,Section: BCS-3A Day: Tue Period: 10:00-11:30,Data Structures (BCS-3A/BCS-5A): Zareen A | PF (BCS-1A/BCS-3A)
+INPUT,section,Tue,11:30-13:00,S. Hall,Section: BCS-3A Day: Tue Period: 11:30-13:00,Linear (BCS-3A/BCS-5A): Akhlaq A | Calculus (BCS-1A/BCS-3A): Saeeda Z
+INPUT,section,Wed,08:30-10:00,F-307,Section: BCS-3A Day: Wed Period: 08:30-10:00,OOP (BCS-3A): Rida H | PF Lab (BCS-1A/BCS-3A)
+INPUT,section,Wed,11:30-13:00,C-4,Section: BCS-3A Day: Wed Period: 11:30-13:00,Discrete (BCS-3A/BCS-5A): Imran F | IICT (BCS-1A/BCS-3A): Maham N
+INPUT,section,Mon,14:30-16:00,F-205,Section: BCS-3B Day: Mon Period: 14:30-16:00,PF (BCS-1B/BCS-3B): Kamran | COAL Lab (BCS-3B/BCS-5B): Seemab A
+INPUT,section,Tue,08:30-10:00,C-5,Section: BCS-3B Day: Tue Period: 08:30-10:00,Quran-I/II (BCS-3B/BCS-5B): Naseer A | Ideology (BCS-1B/BCS-3B): A Sattar
+INPUT,section,Wed,14:30-16:00,F-205,Section: BCS-3B Day: Wed Period: 14:30-16:00,PF (BCS-1B/BCS-3B): Kamran | Data Structures Lab (BCS-3B/BCS-5B)
+INPUT,section,Mon,13:00-14:30,F-202,Section: BCS-3C Day: Mon Period: 13:00-14:30,Data Structures (BCS-3C/BCS-5C): Saira K | PF (BCS-1C/BCS-3C): Kamran
+INPUT,section,Tue,08:30-10:00,F-206,Section: BCS-3C Day: Tue Period: 08:30-10:00,COAL (BCS-3C/BCS-5C): Samin I | Islamic (BCS-1C/BCS-3C): QA Fatima
+INPUT,section,Tue,13:00-14:30,Lab-16,Section: BCS-3C Day: Tue Period: 13:00-14:30,Data Structures Lab (BCS-3C/BCS-5C) | IICT (BCS-1C/BCS-3C): Maham N
+INPUT,section,Wed,13:00-14:30,F-202,Section: BCS-3C Day: Wed Period: 13:00-14:30,Data Structures (BCS-3C/BCS-5C): Saira K | PF (BCS-1C/BCS-3C): Kamran
+INPUT,section,Thu,10:00-11:30,F-206,Section: BCS-3D Day: Thu Period: 10:00-11:30,COAL (BCS-3D/BCS-5D): Samin I | English (BCS-1D/BCS-3D): Nokhaiz Z
+INPUT,section,Tue,10:00-11:30,S. Hall,Section: BCS-3D Day: Tue Period: 10:00-11:30,Calculus (BCS-1D/BCS-3D): Mazhar H | COAL (BCS-3D/BCS-5D): Samin I
+INPUT,section,Tue,11:30-13:00,F-205,Section: BCS-3D Day: Tue Period: 11:30-13:00,PF (BCS-1D/BCS-3D): Namra A | COAL Lab (BCS-3D/BCS-5D)
+INPUT,section,Wed,11:30-13:00,F-202,Section: BCS-3D Day: Wed Period: 11:30-13:00,Data Structures (BCS-3D/BCS-5D): Saira K | PF Lab (BCS-1D/BCS-3D)
+INPUT,section,Mon,08:30-10:00,S. Hall,Section: BCS-3E Day: Mon Period: 08:30-10:00,Calculus (BCS-1E/BCS-3E): Mazhar H | Quran-I/II (BCS-3E/BCS-5E)
+INPUT,section,Thu,08:30-10:00,F-305,Section: BCS-3E Day: Thu Period: 08:30-10:00,COAL (BCS-3E/BCS-5E): Aleena A | Islamic (BCS-1E/BCS-3E): QA Fatima
+INPUT,section,Tue,08:30-10:00,F-305,Section: BCS-3E Day: Tue Period: 08:30-10:00,COAL (BCS-3E/BCS-5E): Aleena A | PF Lab (BCS-1E/BCS-3E)
+INPUT,section,Mon,11:30-13:00,Lab-1,Section: BCS-3F Day: Mon Period: 11:30-13:00,IICT (BCS-1F/BCS-3F): Rushda M | Data Structures Lab (BCS-3F/BCS-5F)
+INPUT,section,Mon,14:30-16:00,F-203,Section: BCS-3F Day: Mon Period: 14:30-16:00,Data Structures (BCS-3F/BCS-5F): Naveed | Calculus (BCS-1F/BCS-3F): Waqar A
+INPUT,section,Thu,10:00-11:30,F-305,Section: BCS-3F Day: Thu Period: 10:00-11:30,COAL (BCS-3F/BCS-5F): Aleena A | Ideology (BCS-1F/BCS-3F): Tahir R
+INPUT,section,Tue,10:00-11:30,F-305,Section: BCS-3F Day: Tue Period: 10:00-11:30,COAL (BCS-3F/BCS-5F): Aleena A | English (BCS-1F/BCS-3F): Kulsoom
+INPUT,section,Tue,13:00-14:30,F-206,Section: BCS-3F Day: Tue Period: 13:00-14:30,PF (BCS-1F/BCS-3F): Saif T | Quran-I/II (BCS-3F/BCS-5F)
+INPUT,section,Wed,11:30-13:00,Lab-15,Section: BCS-3F Day: Wed Period: 11:30-13:00,COAL Lab (BCS-3F/BCS-5F): Seemab A | PF Lab (BCS-1F/BCS-3F): Saif T
+INPUT,section,Wed,14:30-16:00,F-203,Section: BCS-3F Day: Wed Period: 14:30-16:00,Data Structures (BCS-3F/BCS-5F): Naveed | Calculus (BCS-1F/BCS-3F): Waqar A
+INPUT,section,Mon,13:00-14:30,F-306,Section: BCS-3G Day: Mon Period: 13:00-14:30,COAL (BCS-3G/BCS-5G): Aleena A | Islamic (BCS-1G/BCS-3G): Fawad H
+INPUT,section,Thu,14:30-16:00,F-308,Section: BCS-3G Day: Thu Period: 14:30-16:00,Discrete (BCS-3G/BCS-5G): Mehwish A | Calculus (BCS-1G/BCS-3G): Waqar A
+INPUT,section,Tue,14:30-16:00,F-308,Section: BCS-3G Day: Tue Period: 14:30-16:00,Discrete (BCS-3G/BCS-5G): Mehwish A | Calculus (BCS-1G/BCS-3G): Waqar A
+INPUT,section,Wed,10:00-11:30,C-5,Section: BCS-3G Day: Wed Period: 10:00-11:30,Quran-I/II (BCS-3G/BCS-5G) | English (BCS-1G/BCS-3G): Kulsoom
+INPUT,section,Wed,13:00-14:30,F-306,Section: BCS-3G Day: Wed Period: 13:00-14:30,COAL (BCS-3G/BCS-5G): Aleena A | Ideology (BCS-1G/BCS-3G): Tahir R
+INPUT,section,Mon,10:00-11:30,F-301,Section: BCS-5A Day: Mon Period: 10:00-11:30,CN (BCS-5A/BCS-7A): A Qadeer | COAL (BCS-3A/BCS-5A): Aatira A
+INPUT,section,Mon,11:30-13:00,C-1,Section: BCS-5A Day: Mon Period: 11:30-13:00,TBW (BCS-5A/BCS-7A): Hajra I | Discrete (BCS-3A/BCS-5A): Imran F
+INPUT,section,Thu,10:00-11:30,F-203,Section: BCS-5A Day: Thu Period: 10:00-11:30,Data Structures (BCS-3A/BCS-5A): Zareen A | SE (BCS-5A/BCS-7A): Lehmia K
+INPUT,section,Tue,10:00-11:30,F-203,Section: BCS-5A Day: Tue Period: 10:00-11:30,Data Structures (BCS-3A/BCS-5A): Zareen A | SE (BCS-5A/BCS-7A): Lehmia K
+INPUT,section,Wed,10:00-11:30,F-301,Section: BCS-5A Day: Wed Period: 10:00-11:30,CN (BCS-5A/BCS-7A): A Qadeer | COAL (BCS-3A/BCS-5A): Aatira A
+INPUT,section,Wed,11:30-13:00,C-1,Section: BCS-5A Day: Wed Period: 11:30-13:00,TBW (BCS-5A/BCS-7A): Hajra I | Discrete (BCS-3A/BCS-5A): Imran F
+INPUT,section,Mon,10:00-11:30,F-307,Section: BCS-5B Day: Mon Period: 10:00-11:30,HCI (BCS-5B/BCS-7B): Sukhan A | Discrete (BCS-3B/BCS-5B): Imran F
+INPUT,section,Mon,13:00-14:30,F-305,Section: BCS-5B Day: Mon Period: 13:00-14:30,COAL (BCS-3B/BCS-5B): Aatira A | TBW (BCS-5B/BCS-7B): Hajra I
+INPUT,section,Thu,11:30-13:00,F-203,Section: BCS-5B Day: Thu Period: 11:30-13:00,Data Structures (BCS-3B/BCS-5B): Zareen A | Algo (BCS-5B/BCS-7B): Aasim Q
+INPUT,section,Tue,08:30-10:00,F-304,Section: BCS-5B Day: Tue Period: 08:30-10:00,SE (BCS-5B/BCS-7B): Lehmia K | Quran-I/II (BCS-3B/BCS-5B): Naseer A
+INPUT,section,Tue,11:30-13:00,F-203,Section: BCS-5B Day: Tue Period: 11:30-13:00,Data Structures (BCS-3B/BCS-5B): Zareen A | Algo (BCS-5B/BCS-7B): Aasim Q
+INPUT,section,Wed,10:00-11:30,F-307,Section: BCS-5B Day: Wed Period: 10:00-11:30,HCI (BCS-5B/BCS-7B): Sukhan A | Discrete (BCS-3B/BCS-5B): Imran F
+INPUT,section,Wed,13:00-14:30,F-305,Section: BCS-5B Day: Wed Period: 13:00-14:30,COAL (BCS-3B/BCS-5B): Aatira A | TBW (BCS-5B/BCS-7B): Hajra I
+INPUT,section,Mon,13:00-14:30,S. Hall,Section: BCS-5C Day: Mon Period: 13:00-14:30,TBW (BCS-5C/BCS-7C): Uzma S | Data Structures (BCS-3C/BCS-5C): Saira K
+INPUT,section,Thu,08:30-10:00,F-206,Section: BCS-5C Day: Thu Period: 08:30-10:00,COAL (BCS-3C/BCS-5C): Samin I | HCI (BCS-5C/BCS-7C): Sukhan A
+INPUT,section,Thu,11:30-13:00,F-302,Section: BCS-5C Day: Thu Period: 11:30-13:00,SE (BCS-5C/BCS-7C): Zeeshan N | COAL Lab (BCS-3C/BCS-5C): Seemab A
+INPUT,section,Tue,08:30-10:00,F-206,Section: BCS-5C Day: Tue Period: 08:30-10:00,COAL (BCS-3C/BCS-5C): Samin I | HCI (BCS-5C/BCS-7C): Sukhan A
+INPUT,section,Tue,13:00-14:30,F-309,Section: BCS-5C Day: Tue Period: 13:00-14:30,Architecure (BCS-5C/BCS-7C): Saba S | Data Structures Lab (BCS-3C/BCS-5C)
+INPUT,section,Wed,13:00-14:30,S. Hall,Section: BCS-5C Day: Wed Period: 13:00-14:30,TBW (BCS-5C/BCS-7C): Uzma S | Data Structures (BCS-3C/BCS-5C): Saira K
+INPUT,section,Mon,11:30-13:00,S. Hall,Section: BCS-5D Day: Mon Period: 11:30-13:00,TBW (BCS-5D/BCS-7D): Uzma S | Data Structures (BCS-3D/BCS-5D): Saira K
+INPUT,section,Thu,10:00-11:30,F-206,Section: BCS-5D Day: Thu Period: 10:00-11:30,COAL (BCS-3D/BCS-5D): Samin I | CN (BCS-5D/BCS-7D): Nauman M
+INPUT,section,Thu,11:30-13:00,F-309,Section: BCS-5D Day: Thu Period: 11:30-13:00,Architecure (BCS-5D/BCS-7D): Saba S | Data Structures Lab (BCS-3D/BCS-5D)
+INPUT,section,Tue,10:00-11:30,F-206,Section: BCS-5D Day: Tue Period: 10:00-11:30,COAL (BCS-3D/BCS-5D): Samin I | CN (BCS-5D/BCS-7D): Nauman M
+INPUT,section,Tue,11:30-13:00,F-309,Section: BCS-5D Day: Tue Period: 11:30-13:00,Architecure (BCS-5D/BCS-7D): Saba S | COAL Lab (BCS-3D/BCS-5D)
+INPUT,section,Tue,14:30-16:00,F-302,Section: BCS-5D Day: Tue Period: 14:30-16:00,SE (BCS-5D/BCS-7D): Zeeshan N | Quran-I/II (BCS-3D/BCS-5D)
+INPUT,section,Wed,11:30-13:00,S. Hall,Section: BCS-5D Day: Wed Period: 11:30-13:00,TBW (BCS-5D/BCS-7D): Uzma S | Data Structures (BCS-3D/BCS-5D): Saira K
+INPUT,section,Mon,11:30-13:00,F-210,Section: BCS-5E Day: Mon Period: 11:30-13:00,HCI (BCS-5E/BCS-7E): Waqas M | Discrete (BCS-3E/BCS-5E): Rubab J
+INPUT,section,Thu,11:30-13:00,F-308,Section: BCS-5E Day: Thu Period: 11:30-13:00,CN (BCS-5E/BCS-7E): Nauman M | COAL Lab (BCS-3E/BCS-5E)
+INPUT,section,Thu,14:30-16:00,F-203,Section: BCS-5E Day: Thu Period: 14:30-16:00,Data Structures (BCS-3E/BCS-5E): Naveed | TBW (BCS-5E/BCS-7E): Uzma S
+INPUT,section,Tue,11:30-13:00,F-308,Section: BCS-5E Day: Tue Period: 11:30-13:00,CN (BCS-5E/BCS-7E): Nauman M | Data Structures Lab (BCS-3E/BCS-5E)
+INPUT,section,Tue,14:30-16:00,F-203,Section: BCS-5E Day: Tue Period: 14:30-16:00,Data Structures (BCS-3E/BCS-5E): Naveed | TBW (BCS-5E/BCS-7E): Uzma S
+INPUT,section,Wed,11:30-13:00,F-210,Section: BCS-5E Day: Wed Period: 11:30-13:00,HCI (BCS-5E/BCS-7E): Waqas M | Discrete (BCS-3E/BCS-5E): Rubab J
+INPUT,section,Mon,11:30-13:00,C-2,Section: BCS-5F Day: Mon Period: 11:30-13:00,TBW (BCS-5F/BCS-7F): Razm R | Data Structures Lab (BCS-3F/BCS-5F)
+INPUT,section,Thu,11:30-13:00,F-303,Section: BCS-5F Day: Thu Period: 11:30-13:00,Discrete (BCS-3F/BCS-5F): Rubab J | Algo (BCS-5F/BCS-7F): Sajid K
+INPUT,section,Tue,11:30-13:00,F-303,Section: BCS-5F Day: Tue Period: 11:30-13:00,Discrete (BCS-3F/BCS-5F): Rubab J | Algo (BCS-5F/BCS-7F): Sajid K
+INPUT,section,Tue,13:00-14:30,F-311,Section: BCS-5F Day: Tue Period: 13:00-14:30,Architecure (BCS-5F/BCS-7F) | Quran-I/II (BCS-3F/BCS-5F)
+INPUT,section,Wed,11:30-13:00,F-207,Section: BCS-5F Day: Wed Period: 11:30-13:00,TBW (BCS-5F/BCS-7F): Razm R | COAL Lab (BCS-3F/BCS-5F): Seemab A
+INPUT,section,Mon,14:30-16:00,F-302,Section: BCS-5G Day: Mon Period: 14:30-16:00,Algo (BCS-5G/BCS-7G): Usama A | Linear (BCS-3G/BCS-5G): Rizwan
+INPUT,section,Thu,08:30-10:00,F-309,Section: BCS-5G Day: Thu Period: 08:30-10:00,HCI (BCS-5G/BCS-7G): Bushra H | Data Structures Lab (BCS-3G/BCS-5G)
+INPUT,section,Tue,08:30-10:00,C-1,Section: BCS-5G Day: Tue Period: 08:30-10:00,HCI (BCS-5G/BCS-7G): Bushra H | COAL Lab (BCS-3G/BCS-5G)
+INPUT,section,Wed,14:30-16:00,F-302,Section: BCS-5G Day: Wed Period: 14:30-16:00,Algo (BCS-5G/BCS-7G): Usama A | Linear (BCS-3G/BCS-5G): Rizwan
+INPUT,section,Mon,11:30-13:00,F-302,Section: BCS-5H Day: Mon Period: 11:30-13:00,Algo (BCS-5H/BCS-7H): Usama A | Data Structures (BCS-3H/BCS-5H): Rida H
+INPUT,section,Mon,13:00-14:30,F-309,Section: BCS-5H Day: Mon Period: 13:00-14:30,COAL (BCS-3H/BCS-5H): Waqar B | TBW (BCS-5H/BCS-7H): Razm R
+INPUT,section,Thu,14:30-16:00,F-312,Section: BCS-5H Day: Thu Period: 14:30-16:00,CN (BCS-5H/BCS-7H): Sarah K | Linear (BCS-3H/BCS-5H): VF
+INPUT,section,Tue,14:30-16:00,F-312,Section: BCS-5H Day: Tue Period: 14:30-16:00,CN (BCS-5H/BCS-7H): Sarah K | Linear (BCS-3H/BCS-5H): VF
+INPUT,section,Wed,11:30-13:00,F-302,Section: BCS-5H Day: Wed Period: 11:30-13:00,Algo (BCS-5H/BCS-7H): Usama A | Data Structures (BCS-3H/BCS-5H): Rida H
+INPUT,section,Wed,13:00-14:30,F-207,Section: BCS-5H Day: Wed Period: 13:00-14:30,TBW (BCS-5H/BCS-7H): Razm R | COAL (BCS-3H/BCS-5H): Waqar B
+INPUT,section,Fri,14:30-16:00,F-201,Section: BCS-7A Day: Fri Period: 14:30-16:00,Deep Learning (BCS-7A): Saif I | CN Lab (BCS-5A/BCS-7A)
+INPUT,section,Mon,08:30-10:00,F-208,Section: BCS-7A Day: Mon Period: 08:30-10:00,Data Science (BCS-7A): Sobia T | HCI (BCS-5A/BCS-7A): Sukhan A
+INPUT,section,Mon,11:30-13:00,F-204,Section: BCS-7A Day: Mon Period: 11:30-13:00,Database (BCS-7A): Ishaq R | TBW (BCS-5A/BCS-7A): Hajra I
+INPUT,section,Thu,08:30-10:00,F-205,Section: BCS-7A Day: Thu Period: 08:30-10:00,TOA (BCS-7A): Sobia T | SRE (BCS-7A): Arslan A | Architecure (BCS-5A/BCS-7A): Zeeshan A
+INPUT,section,Thu,10:00-11:30,F-304,Section: BCS-7A Day: Thu Period: 10:00-11:30,SE (BCS-5A/BCS-7A): Lehmia K | Web Pro (BCS-7A): Mahhek T | Info Security (BCS-7A/BCS-9A): Ammar H | Bio Info (BCS-7A): Rushda M
+INPUT,section,Thu,13:00-14:30,F-201,Section: BCS-7A Day: Thu Period: 13:00-14:30,NLP (BCS-7A): Mariam N | Algo (BCS-5A/BCS-7A): Tahir E
+INPUT,section,Tue,08:30-10:00,F-205,Section: BCS-7A Day: Tue Period: 08:30-10:00,TOA (BCS-7A): Sobia T | SRE (BCS-7A): Arslan A | Architecure (BCS-5A/BCS-7A): Zeeshan A
+INPUT,section,Tue,10:00-11:30,F-304,Section: BCS-7A Day: Tue Period: 10:00-11:30,SE (BCS-5A/BCS-7A): Lehmia K | Web Pro (BCS-7A): Mahhek T | Info Security (BCS-7A/BCS-9A): Ammar H | Bio Info (BCS-7A): Rushda M
+INPUT,section,Tue,13:00-14:30,F-201,Section: BCS-7A Day: Tue Period: 13:00-14:30,NLP (BCS-7A): Mariam N | Algo (BCS-5A/BCS-7A): Tahir E
+INPUT,section,Wed,08:30-10:00,F-208,Section: BCS-7A Day: Wed Period: 08:30-10:00,Data Science (BCS-7A): Sobia T | HCI (BCS-5A/BCS-7A): Sukhan A
+INPUT,section,Wed,11:30-13:00,F-204,Section: BCS-7A Day: Wed Period: 11:30-13:00,Database (BCS-7A): Ishaq R | TBW (BCS-5A/BCS-7A): Hajra I
+INPUT,section,Fri,14:30-16:00,F-207,Section: BCS-7B Day: Fri Period: 14:30-16:00,MLOPs (BCS-7B): Usman A | CN Lab (BCS-5B/BCS-7B)
+INPUT,section,Mon,10:00-11:30,F-208,Section: BCS-7B Day: Mon Period: 10:00-11:30,Data Science (BCS-7B): Sobia T | HCI (BCS-5B/BCS-7B): Sukhan A
+INPUT,section,Mon,11:30-13:00,F-201,Section: BCS-7B Day: Mon Period: 11:30-13:00,PDC (BCS-7B/BCS-9B): A Qadeer | CN (BCS-5B/BCS-7B): Ahmad R
+INPUT,section,Thu,13:00-14:30,F-303,Section: BCS-7B Day: Thu Period: 13:00-14:30,Info Security (BCS-7B/BCS-9B): Ammar H | Bio Info (BCS-7B): Rushda M
+INPUT,section,Tue,13:00-14:30,F-303,Section: BCS-7B Day: Tue Period: 13:00-14:30,Info Security (BCS-7B/BCS-9B): Ammar H | Bio Info (BCS-7B): Rushda M
+INPUT,section,Wed,10:00-11:30,F-208,Section: BCS-7B Day: Wed Period: 10:00-11:30,Data Science (BCS-7B): Sobia T | HCI (BCS-5B/BCS-7B): Sukhan A
+INPUT,section,Wed,11:30-13:00,F-201,Section: BCS-7B Day: Wed Period: 11:30-13:00,PDC (BCS-7B/BCS-9B): A Qadeer | CN (BCS-5B/BCS-7B): Ahmad R
+INPUT,section,Mon,10:00-11:30,F-304,Section: BCS-7C Day: Mon Period: 10:00-11:30,CN (BCS-5C/BCS-7C): Ahmad R | PDC (BCS-7C/BCS-9C): Danyal F
+INPUT,section,Thu,11:30-13:00,F-207,Section: BCS-7C Day: Thu Period: 11:30-13:00,Compiler (BCS-7C/BCS-9C): Aamir R | SE (BCS-5C/BCS-7C): Zeeshan N
+INPUT,section,Tue,11:30-13:00,F-207,Section: BCS-7C Day: Tue Period: 11:30-13:00,Compiler (BCS-7C/BCS-9C): Aamir R | SE (BCS-5C/BCS-7C): Zeeshan N
+INPUT,section,Wed,10:00-11:30,F-304,Section: BCS-7C Day: Wed Period: 10:00-11:30,CN (BCS-5C/BCS-7C): Ahmad R | PDC (BCS-7C/BCS-9C): Danyal F
+INPUT,section,Fri,14:30-16:00,Lab-13,Section: BCS-7D Day: Fri Period: 14:30-16:00,CN Lab (BCS-5E/BCS-7D) | CN Lab (BCS-5D/BCS-7D)
+INPUT,section,Thu,10:00-11:30,F-301,Section: BCS-7D Day: Thu Period: 10:00-11:30,Info Security (BCS-7D/BCS-9D): Aqsa K | CN (BCS-5D/BCS-7D): Nauman M
+INPUT,section,Tue,10:00-11:30,F-301,Section: BCS-7D Day: Tue Period: 10:00-11:30,Info Security (BCS-7D/BCS-9D): Aqsa K | CN (BCS-5D/BCS-7D): Nauman M
+INPUT,section,Thu,11:30-13:00,F-308,Section: BCS-7E Day: Thu Period: 11:30-13:00,CN (BCS-5E/BCS-7E): Nauman M | Compiler (BCS-7E/BCS-9E): Hamad Q
+INPUT,section,Thu,13:00-14:30,F-204,Section: BCS-7E Day: Thu Period: 13:00-14:30,Info Security (BCS-7E/BCS-9E): Aqsa K | SE (BCS-5E/BCS-7E): Zeeshan N
+INPUT,section,Thu,14:30-16:00,F-210,Section: BCS-7E Day: Thu Period: 14:30-16:00,PDC (BCS-7E/BCS-9E): Danyal F | TBW (BCS-5E/BCS-7E): Uzma S
+INPUT,section,Tue,11:30-13:00,F-308,Section: BCS-7E Day: Tue Period: 11:30-13:00,CN (BCS-5E/BCS-7E): Nauman M | Compiler (BCS-7E/BCS-9E): Hamad Q
+INPUT,section,Tue,13:00-14:30,F-204,Section: BCS-7E Day: Tue Period: 13:00-14:30,Info Security (BCS-7E/BCS-9E): Aqsa K | SE (BCS-5E/BCS-7E): Zeeshan N
+INPUT,section,Tue,14:30-16:00,F-210,Section: BCS-7E Day: Tue Period: 14:30-16:00,PDC (BCS-7E/BCS-9E): Danyal F | TBW (BCS-5E/BCS-7E): Uzma S
+INPUT,section,Thu,11:30-13:00,F-310,Section: BCS-7F Day: Thu Period: 11:30-13:00,Algo (BCS-5F/BCS-7F): Sajid K | Info Security (BCS-7F/BCS-9F): Nosheen M
+INPUT,section,Tue,11:30-13:00,F-310,Section: BCS-7F Day: Tue Period: 11:30-13:00,Algo (BCS-5F/BCS-7F): Sajid K | Info Security (BCS-7F/BCS-9F): Nosheen M
+INPUT,section,Fri,10:00-11:30,F-204,Section: BCS-7G Day: Fri Period: 10:00-11:30,Compiler (BCS-7G/BCS-9G): Faisal A | CN Lab (BCS-5G/BCS-7G): Sarah K
+INPUT,section,Thu,10:00-11:30,F-312,Section: BCS-7G Day: Thu Period: 10:00-11:30,CN (BCS-5G/BCS-7G): Sarah K | Info Security (BCS-7G/BCS-9G): Nosheen M
+INPUT,section,Tue,10:00-11:30,F-312,Section: BCS-7G Day: Tue Period: 10:00-11:30,CN (BCS-5G/BCS-7G): Sarah K | Info Security (BCS-7G/BCS-9G): Nosheen M
+INPUT,section,Fri,10:00-11:30,F-203,Section: BCS-7H Day: Fri Period: 10:00-11:30,Info Security (BCS-7H/BCS-9H): Usman A | CN Lab (BCS-5H/BCS-7H)
+INPUT,section,Mon,11:30-13:00,F-207,Section: BCS-7H Day: Mon Period: 11:30-13:00,Compiler (BCS-7H/BCS-9H): Faisal A | Algo (BCS-5H/BCS-7H): Usama A
+INPUT,section,Tue,10:00-11:30,C-1,Section: BCS-7H Day: Tue Period: 10:00-11:30,HCI (BCS-5H/BCS-7H): Bushra H | Info Security (BCS-7H/BCS-9H): Usman A
+INPUT,section,Mon,13:00-14:30,F-203,Section: BCS-9A Day: Mon Period: 13:00-14:30,Compiler (BCS-7A/BCS-9A): Aamir R | EC for Robotics (BCS-9A)
+INPUT,section,Wed,13:00-14:30,F-203,Section: BCS-9A Day: Wed Period: 13:00-14:30,Compiler (BCS-7A/BCS-9A): Aamir R | EC for Robotics (BCS-9A)
+INPUT,section,Thu,08:30-10:00,F-207,Section: BDS-7A Day: Thu Period: 08:30-10:00,Web Pro (BDS-7A): Mahhek T | DAV (BDS-5A/BDS-7A): Amir I
+INPUT,section,Tue,08:30-10:00,F-207,Section: BDS-7A Day: Tue Period: 08:30-10:00,Web Pro (BDS-7A): Mahhek T | DAV (BDS-5A/BDS-7A): Amir I
+INPUT,section,Wed,08:30-10:00,Lab-14,Section: BDS-7A Day: Wed Period: 08:30-10:00,DAV Lab (BDS-5A/BDS-7A) | DWBI Lab (BDS-7A/BDS-9A)
+INPUT,section,Thu,14:30-16:00,F-205,Section: BSE-7A Day: Thu Period: 14:30-16:00,Algo (BSE-5A/BSE-7A): Aasim Q | DevOps (BSE-7A): Durraiz
+INPUT,section,Tue,14:30-16:00,F-205,Section: BSE-7A Day: Tue Period: 14:30-16:00,Algo (BSE-5A/BSE-7A): Aasim Q | DevOps (BSE-7A): Durraiz
+INPUT,missing_teacher,Mon,08:30-10:00,F-201,No instructor recorded in the timetable grid,Quran-I/II (MCS-3A)
+INPUT,missing_teacher,Mon,16:00-17:30,F-201,No instructor recorded in the timetable grid,CN (BCS-7M)
+INPUT,missing_teacher,Mon,08:30-10:00,F-203,No instructor recorded in the timetable grid,PF (BSE-1C)
+INPUT,missing_teacher,Mon,10:00-11:30,F-203,No instructor recorded in the timetable grid,Calculus (BSE-1C)
+INPUT,missing_teacher,Mon,17:30-19:00,F-203,No instructor recorded in the timetable grid,Pro for AI (MCI-1A)
+INPUT,missing_teacher,Mon,08:30-10:00,F-204,No instructor recorded in the timetable grid,Funda of SPM (BSE-9A)
+INPUT,missing_teacher,Mon,16:00-17:30,F-204,No instructor recorded in the timetable grid,CN (BDS-7C)
+INPUT,missing_teacher,Mon,17:30-19:00,F-204,No instructor recorded in the timetable grid,AP (MCY-1A)
+INPUT,missing_teacher,Mon,10:00-11:30,F-205,No instructor recorded in the timetable grid,Calculus (BCY-1B)
+INPUT,missing_teacher,Mon,08:30-10:00,F-206,No instructor recorded in the timetable grid,Calculus (BDS-1C)
+INPUT,missing_teacher,Mon,14:30-16:00,F-207,No instructor recorded in the timetable grid,Psychology (BCY-1A)
+INPUT,missing_teacher,Mon,08:30-10:00,F-210,No instructor recorded in the timetable grid,French (BCS-9A)
+INPUT,missing_teacher,Mon,13:00-14:30,F-210,No instructor recorded in the timetable grid,EC for Robotics (BCS-9A)
+INPUT,missing_teacher,Mon,10:00-11:30,F-303,No instructor recorded in the timetable grid,PDC (BCS-7K/BCS-9K)
+INPUT,missing_teacher,Mon,10:00-11:30,F-309,No instructor recorded in the timetable grid,COAL (BSE-3B)
+INPUT,missing_teacher,Mon,11:30-13:00,F-309,No instructor recorded in the timetable grid,COAL (BSE-3A)
+INPUT,missing_teacher,Mon,10:00-11:30,F-310,No instructor recorded in the timetable grid,COAL (BCY-3A)
+INPUT,missing_teacher,Mon,11:30-13:00,F-311,No instructor recorded in the timetable grid,TBW (BCS-9A)
+INPUT,missing_teacher,Mon,10:00-11:30,F-312,No instructor recorded in the timetable grid,SCD (BSE-9A)
+INPUT,missing_teacher,Mon,13:00-14:30,F-312,No instructor recorded in the timetable grid,Islamic S (BDS-1C)
+INPUT,missing_teacher,Mon,08:30-10:00,C-2,No instructor recorded in the timetable grid,Quran-I/II (BCS-3E/BCS-5E)
+INPUT,missing_teacher,Mon,14:30-16:00,C-2,No instructor recorded in the timetable grid,OR (BCS-9A)
+INPUT,missing_teacher,Mon,16:00-17:30,C-3,No instructor recorded in the timetable grid,Numerical (BCS-9A)
+INPUT,missing_teacher,Mon,13:00-14:30,C-4,No instructor recorded in the timetable grid,Quran-I/II (BSE-3A)
+INPUT,missing_teacher,Mon,14:30-16:00,C-4,No instructor recorded in the timetable grid,Quran-I/II (BSE-3B)
+INPUT,missing_teacher,Mon,10:00-11:30,C-5,No instructor recorded in the timetable grid,Ideology (BDS-1C)
+INPUT,missing_teacher,Mon,11:30-13:00,C-5,No instructor recorded in the timetable grid,Seerat (BDS-1C)
+INPUT,missing_teacher,Mon,13:00-14:30,C-6,No instructor recorded in the timetable grid,French (BDS-7B)
+INPUT,missing_teacher,Mon,08:30-10:00,Lab-14,No instructor recorded in the timetable grid,Intro to DS Lab (BDS-3A)
+INPUT,missing_teacher,Mon,11:30-13:00,Lab-14,No instructor recorded in the timetable grid,IICT (BSE-1C)
+INPUT,missing_teacher,Mon,08:30-10:00,Lab-15,No instructor recorded in the timetable grid,DAV Lab (BDS-5B/BDS-7B)
+INPUT,missing_teacher,Mon,11:30-13:00,Lab-15,No instructor recorded in the timetable grid,IICT (BCY-1B)
+INPUT,missing_teacher,Mon,08:30-10:00,Lab-18,No instructor recorded in the timetable grid,PF Lab (BSE-1A)
+INPUT,missing_teacher,Mon,08:30-10:00,Lab-1,No instructor recorded in the timetable grid,PF Lab (BSE-1B)
+INPUT,missing_teacher,Mon,11:30-13:00,Lab-2,No instructor recorded in the timetable grid,Data Structures Lab (BCS-3F/BCS-5F)
+INPUT,missing_teacher,Mon,11:30-13:00,Lab-3,No instructor recorded in the timetable grid,COAL Lab (BCY-3A2)
+INPUT,missing_teacher,Mon,11:30-13:00,Lab-6,No instructor recorded in the timetable grid,COAL Lab (BCY-3A1)
+INPUT,missing_teacher,Tue,17:30-19:00,F-201,No instructor recorded in the timetable grid,MOB (MSP-1A)
+INPUT,missing_teacher,Tue,11:30-13:00,F-202,No instructor recorded in the timetable grid,Physics (BCY-1B)
+INPUT,missing_teacher,Tue,17:30-19:00,F-203,No instructor recorded in the timetable grid,DSA (MCI-1A)
+INPUT,missing_teacher,Tue,10:00-11:30,F-205,No instructor recorded in the timetable grid,PF (BCS-1A/BCS-3A)
+INPUT,missing_teacher,Tue,16:00-17:30,F-205,No instructor recorded in the timetable grid,COAL (BSE-3C)
+INPUT,missing_teacher,Tue,08:30-10:00,F-208,No instructor recorded in the timetable grid,SRE (BSE-9A)
+INPUT,missing_teacher,Tue,13:00-14:30,F-210,No instructor recorded in the timetable grid,PF (BDS-1C)
+INPUT,missing_teacher,Tue,14:30-16:00,F-303,No instructor recorded in the timetable grid,COAL (BCS-5M)
+INPUT,missing_teacher,Tue,13:00-14:30,F-311,No instructor recorded in the timetable grid,Architecure (BCS-5F/BCS-7F)
+INPUT,missing_teacher,Tue,08:30-10:00,C-4,No instructor recorded in the timetable grid,English (BCY-1B)
+INPUT,missing_teacher,Tue,13:00-14:30,C-5,No instructor recorded in the timetable grid,Quran-I/II (BCS-3F/BCS-5F)
+INPUT,missing_teacher,Tue,14:30-16:00,C-5,No instructor recorded in the timetable grid,Quran-I/II (BCS-3D/BCS-5D)
+INPUT,missing_teacher,Tue,11:30-13:00,C-13,No instructor recorded in the timetable grid,English (BSE-1C)
+INPUT,missing_teacher,,,,... and 165 more grid entries without a teacher,
+INPUT,unscheduled_session,,,,1113 required session(s) not found in the existing timetable grid (heuristic short-title match),
+
+Stage,Kind,Detail
+POST-SOLUTION,none,All hard constraints satisfied (VALIDATION PASSED)

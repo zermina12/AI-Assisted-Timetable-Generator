@@ -1,0 +1,1122 @@
+﻿Day,Time Slot,Room,Course,Course Code,Section(s),Teacher,Duration
+Mon,08:30-10:00,C-1,Programming Fundamentals,CS1002,BCS-1C/3C,Mr. Muhammad Kamran,90 min
+Mon,08:30-10:00,C-13,Ideology and Consittution of Pakistan,SS1013,BCS-1B/3B,Dr.Abdul Sattar,90 min
+Mon,08:30-10:00,C-14,Ideology and Consittution of Pakistan,SS1013,BCS-1G/3G,Muhammad Tahir Rahisd,90 min
+Mon,08:30-10:00,C-2,Understanding Holy Quran - I /Ethics - I,SS1021,BCS-3F/5F,TBA,90 min
+Mon,08:30-10:00,C-3,Computer Architecture,CS4075,BCS-5C/7C,Ms. Saba Sajid,90 min
+Mon,08:30-10:00,C-4,Design and Anlysis of Algorithms,CS2009,BCS-5D/7D,Ms. Abeeda Akram,90 min
+Mon,08:30-10:00,C-5,Technical and Business Writting,CSXXX,BCS-5B/7B,Hajra Ikram,90 min
+Mon,08:30-10:00,C-6,Technical and Business Writting,CSXXX,BCS-5H/7H,Razm ul Zafar,90 min
+Mon,08:30-10:00,C-7,Information Security,CS3002,BCS-7B/9B,Dr. Ammar Haider,90 min
+Mon,08:30-10:00,D-11,Compiler Construction,CS4031,BCS-7H/9H,Dr. Faisal Aslam,90 min
+Mon,08:30-10:00,Eng Lab-1,Programming Fundamentals Lab,CL1002,BCS-1D/3D,TBA,90 min
+Mon,08:30-10:00,Eng Lab-2,Functional English Lab,SL1012,BCS-1B1/3B1,TBA,90 min
+Mon,08:30-10:00,Eng Lab-3,Functional English Lab,SL1012,BCS-1G1/3G1,TBA,90 min
+Mon,08:30-10:00,Eng Lab-4,Functional Eng Lab,SL1012,BDS-1A2,TBA,90 min
+Mon,08:30-10:00,Eng Lab-5,Function English Lab,SL1012,BDS-1C1,TBA,90 min
+Mon,08:30-10:00,Eng Lab-6,Artificial Intelligence - Lab,AL2002,BDS-5B,TBA,90 min
+Mon,08:30-10:00,F-201,Design and Analysis of Algorithms,CS2009,BSE-5A/7A,Dr. Aasim Qureshi,90 min
+Mon,08:30-10:00,F-202,Data Science,CS4048,BCS-7A,Dr. Sobia Tariq Javed,90 min
+Mon,08:30-10:00,F-203,Operations Research,MT4031,BCS-9A,TBA,90 min
+Mon,08:30-10:00,F-204,Advanced Operating System,CSXXX,MCS-1A,Dr. Zeeshan Ali Khan,90 min
+Mon,08:30-10:00,F-205,Calculus and Analytical Geometry,MT1003,BSE-1A,Dr. Muhammad Nasir Ali VF,90 min
+Mon,08:30-10:00,F-206,Functional English,SS1012,BSE-1C,TBA,90 min
+Mon,08:30-10:00,F-207,Ideology and Constitution of Pakistan,SS1013,BDS-1A,Muznah Saleha,90 min
+Mon,08:30-10:00,F-208,Islamic Studies,SS1007,BDS-1B,Dr. Adnan Faisal,90 min
+Mon,08:30-10:00,F-209,Computer Organization and Assembly Language,EE2003,BDS-3A,Ms. Sana Fatima,90 min
+Mon,08:30-10:00,F-210,Probability and Statistics,MT2005,BDS-3B,Ms. Sarah Ahmad,90 min
+Mon,08:30-10:00,F-301,Reserved for Maths,RXXXX,MCS-3A,TBA,90 min
+Mon,08:30-10:00,F-302,Understanding of Holy Quran I/Ethics I,SS1021,,Mr. Zia ur Rehman,90 min
+Mon,08:30-10:00,F-303,Applied Physics,NS1001,,TBA,90 min
+Mon,08:30-10:00,F-304,MS Thesis - I,CY5091,,TBA,90 min
+Mon,08:30-10:00,F-305,MS Thesis - I,CY5091,,TBA,90 min
+Mon,08:30-10:00,F-306,MS Thesis - I & II,CY5091/502,,TBA,90 min
+Mon,08:30-10:00,Lab-1,Functioanl English Lab,SL1012,BCY-1A1,TBA,90 min
+Mon,10:00-11:30,C-1,Programming Fundamentals,CS1002,BCS-1B/3B,Mr. Muhammad Kamran,90 min
+Mon,10:00-11:30,C-13,Calculus and Analytical Geometry,MT1003,BCS-1G/3G,Mr. Waqar Azeem VF,90 min
+Mon,10:00-11:30,C-14,Islamic Studies/Ethics,SS1007,BCS-1C/3C,Qurat ul Ain Fatima,90 min
+Mon,10:00-11:30,C-2,Islamic Studies/Ethics,SS1007,BCS-1D/3D,Dr.Adnan Faisal,90 min
+Mon,10:00-11:30,C-3,Data Structures,CS2001,BCS-3C/5C,Dr. Saira Karim,90 min
+Mon,10:00-11:30,C-4,Linear Algebra,MT1004,BCS-3B/5B,Dr. Akhlaq Ahmad Bhatti,90 min
+Mon,10:00-11:30,C-5,Linear Algebra,MT1004,BCS-3E/5E,Dr. Muzamil Hanif VF,90 min
+Mon,10:00-11:30,C-6,Applied Human Computer Interaction,CS3014,BCS-5C/7C,Ms. Sukhan Amir,90 min
+Mon,10:00-11:30,C-7,Design and Anlysis of Algorithms,CS2009,BCS-5A/7A,Dr. Tahir Ejaz,90 min
+Mon,10:00-11:30,D-11,Design and Anlysis of Algorithms,CS2009,BCS-5B/7B,Dr. Aasim Qureshi,90 min
+Mon,10:00-11:30,Eng Lab-1,Functional Eng Lab,SL1012,BSE-1C2,TBA,90 min
+Mon,10:00-11:30,Eng Lab-2,Functional Eng Lab,SL1012,BDS-1A1,TBA,90 min
+Mon,10:00-11:30,Eng Lab-3,Introduction to Data Science Lab,DL2001,BDS-3B,Ms. Eesha tur Razia,90 min
+Mon,10:00-11:30,Eng Lab-4,Data Structure and Algorithms,CSXXXX,MCI-1A,TBA,90 min
+Mon,10:00-11:30,Eng Lab-5,MS Thesis - I,CY5091,,TBA,90 min
+Mon,10:00-11:30,Eng Lab-6,MS Thesis - I,CY5091,,TBA,90 min
+Mon,10:00-11:30,F-201,Design and Anlysis of Algorithms,CS2009,BCS-5E/7E,Ms. Abeeda Akram,90 min
+Mon,10:00-11:30,F-202,Design and Anlysis of Algorithms,CS2009,BCS-5H/7H,Mr. Usama Alvi,90 min
+Mon,10:00-11:30,F-203,Software Engineering,CS3009,BCS-5D/7D,Mr. Zeeshan Nazar,90 min
+Mon,10:00-11:30,F-204,Parallel and Distributed Computing,CS3006,BCS-7A/9A,Dr. Abdul Qadeer,90 min
+Mon,10:00-11:30,F-205,Parallel and Distributed Computing,CS3006,BCS-7F/9F,Mr. Mubashar Hussain,90 min
+Mon,10:00-11:30,F-206,Data Science,CS4048,BCS-7B,Dr. Sobia Tariq Javed,90 min
+Mon,10:00-11:30,F-207,Fundamentals of Software Project Management,CS4044,BCS-9A,Ms. Momna Zaneb,90 min
+Mon,10:00-11:30,F-208,Theory of Programming Languages,CS5006,MCS-1A,Dr. Farooq Ahmed Rana,90 min
+Mon,10:00-11:30,F-209,Calculus and Analytical Geometry,MT1003,BSE-1A,Dr. Muhammad Nasir Ali VF,90 min
+Mon,10:00-11:30,F-210,Calculus and Analytical Geometry,MT1003,BSE-1C,TBA,90 min
+Mon,10:00-11:30,F-301,Computer Organization and Assembly Language,EE2003,BSE-3C,TBA,90 min
+Mon,10:00-11:30,F-302,Probability and Statistics,MT2005,BSE-3A,Ms. Kanwal Saleem,90 min
+Mon,10:00-11:30,F-303,Technical and Business Writing,SS2012,BSE-5A,Iqra Rafiq,90 min
+Mon,10:00-11:30,F-304,Final Year Project -I,SE4091,BSE-7A,TBA,90 min
+Mon,10:00-11:30,F-305,MS Practicum - I,CS5087,MSP-3A,Dr. G. A. Farrukh,90 min
+Mon,10:00-11:30,F-306,Programming Fundamentals,CS1002,BDS-1A,Dr. Mubasher Baig,90 min
+Mon,10:00-11:30,F-307,Ideology and Constitution of Pakistan,SS1013,BDS-1B,Muznah Saleha,90 min
+Mon,10:00-11:30,F-308,Understanding of Holy Quran I/Ethics I,SS1021,BDS-3A,Mr. Zia ur Rehman,90 min
+Mon,10:00-11:30,F-309,Artificial Intelligence,AI2002,BDS-5B,Ms. Bushra Rashid,90 min
+Mon,10:00-11:30,F-310,Data Science Tools and Technique,DS5002,MDS-1A,Dr. Asma Ahmad,90 min
+Mon,10:00-11:30,F-311,Reserved for Maths,RXXXX,MCS-3A,TBA,90 min
+Mon,10:00-11:30,F-312,Linear Algebra,MT1004,BAI-3A,Dr. Aziz Ur Rehman VF,90 min
+Mon,10:00-11:30,S. Hall,Applied Information Security,CY5005,MCY-1A,Dr. Faisal Aslam,90 min
+Mon,11:30-13:00,C-1,Programming Fundamentals,CS1002,BCS-1C/3C,Mr. Muhammad Kamran,90 min
+Mon,11:30-13:00,C-13,Programming Fundamentals,CS1002,BCS-1D/3D,Ms. Namra Absar,90 min
+Mon,11:30-13:00,C-14,Islamic Studies/Ethics,SS1007,BCS-1G/3G,Mr. Fawad Hashmi,90 min
+Mon,11:30-13:00,C-2,Discrete Structures,CS1005,BCS-3C/5C,Dr. Tahir Ejaz,90 min
+Mon,11:30-13:00,C-3,Discrete Structures,CS1005,BCS-3H/5H,Ms. Mehwish Afshan,90 min
+Mon,11:30-13:00,C-4,Linear Algebra,MT1004,BCS-3B/5B,Dr. Akhlaq Ahmad Bhatti,90 min
+Mon,11:30-13:00,C-5,Linear Algebra,MT1004,BCS-3G/5G,Dr. Muhammad Rizwan VF,90 min
+Mon,11:30-13:00,C-6,Computer Networks,CS3001,BCS-5E/7E,Mr. Nauman Moazzam Hayat,90 min
+Mon,11:30-13:00,C-7,Design and Anlysis of Algorithms,CS2009,BCS-5D/7D,Ms. Abeeda Akram,90 min
+Mon,11:30-13:00,D-11,Software Engineering,CS3009,BCS-5B/7B,Ms. Lehmia Kiran,90 min
+Mon,11:30-13:00,Eng Lab-1,Data Structures Lab,CL2001,BCS-3E/5E,TBA,90 min
+Mon,11:30-13:00,Eng Lab-2,Computer Networks Lab,CL3001,BCS-5A/7A,TBA,90 min
+Mon,11:30-13:00,Eng Lab-3,Programming Fundamentals Lab,CL1002,BSE-1B,TBA,90 min
+Mon,11:30-13:00,Eng Lab-4,Data Warehousing and Business Intelligence Lab,DS3004,BDS-5B,TBA,90 min
+Mon,11:30-13:00,Eng Lab-5,Programming Fundamental Lab,CL1002,BAI-1A1,TBA,90 min
+Mon,11:30-13:00,Eng Lab-6,Data Structure and Algorithms,CSXXXX,MCI-1A,TBA,90 min
+Mon,11:30-13:00,F-201,Information Security,CS3002,BCS-7K/9K,Mr. Usman Aamer,90 min
+Mon,11:30-13:00,F-202,Compiler Construction,CS4031,BCS-7F/9F,Mr. Hamad ul Qudous,90 min
+Mon,11:30-13:00,F-203,Compiler Construction,CS4031,BCS-7J/9J,Dr. Farooq Ahmed Rana,90 min
+Mon,11:30-13:00,F-204,Parallel and Distributed Computing,CS3006,BCS-7G/9G,Mr. Mubashar Hussain,90 min
+Mon,11:30-13:00,F-205,Bioinformatics,CS4054,BCS-7B,Ms. Rushda Muneer,90 min
+Mon,11:30-13:00,F-206,Theory of Automata,CS3005,BCS-7A,Dr. Sobia Tariq Javed,90 min
+Mon,11:30-13:00,F-207,Technical and Business Writing,SS2007,BCS-9A,TBA,90 min
+Mon,11:30-13:00,F-208,Research Methodology (Merged with DS),CS5001,MCS-3A,TBA,90 min
+Mon,11:30-13:00,F-209,Applied Physics,NS1001,BSE-1C,TBA,90 min
+Mon,11:30-13:00,F-210,Computer Organization and Assembly Language,EE2003,BSE-3A,TBA,90 min
+Mon,11:30-13:00,F-301,Probability and Statistics,MT2005,BSE-3C,Ms. Kanwal Saleem,90 min
+Mon,11:30-13:00,F-302,Artificial Intelligence,AI2002,BSE-5B,Ms. Bushra Rashid,90 min
+Mon,11:30-13:00,F-303,Software Construction and Development,SE3005,BSE-5A,Mr. Arslan Asif,90 min
+Mon,11:30-13:00,F-304,Digital Image Processing,CS4055,BSE-7A,Dr. Asif Gilani,90 min
+Mon,11:30-13:00,F-305,Understanding of Holy Quran I/Ethics I,SS5014,MSP-3A,Mr. Irfan Rana,90 min
+Mon,11:30-13:00,F-306,Calculus and Analytical Geometry,MT1003,BDS-1A,Dr. Komal Hassan VF,90 min
+Mon,11:30-13:00,F-307,Ideology and Constitution of Pakistan,SS1013,BDS-1B,Muznah Saleha,90 min
+Mon,11:30-13:00,F-308,Understanding of Holy Quran II/Ethics II,SS1022,BDS-3B,Mr. Zia ur Rehman,90 min
+Mon,11:30-13:00,F-309,Object Oriented Programming,CS1004,BDS-3A,Mr. Waqas Manzoor,90 min
+Mon,11:30-13:00,F-310,Computer Networks,CS3001,BDS-7C,TBA,90 min
+Mon,11:30-13:00,F-311,French Language,SS2031,BDS-7B,TBA,90 min
+Mon,11:30-13:00,F-312,Reserved for Maths,RXXXX,MCS-1A,TBA,90 min
+Mon,11:30-13:00,S. Hall,Understanding of Holy Quran I/Ethics I,SS1021,BAI-3A,Mr. Naseer Ahmad,90 min
+Mon,13:00-14:30,C-1,Functional English,SS1012,BCS-1C/3C,Ms. Nokhaiz Zahra,90 min
+Mon,13:00-14:30,C-13,Data Structures,CS2001,BCS-3E/5E,Mr. Muhammad Naveed,90 min
+Mon,13:00-14:30,C-14,Discrete Structures,CS1005,BCS-3H/5H,Ms. Mehwish Afshan,90 min
+Mon,13:00-14:30,C-2,Linear Algebra,MT1004,BCS-3A/5A,Dr. Akhlaq Ahmad Bhatti,90 min
+Mon,13:00-14:30,C-3,Applied Human Computer Interaction,CS3014,BCS-5E/7E,Mr. Waqas Manzoor,90 min
+Mon,13:00-14:30,C-4,Applied Human Computer Interaction,CS3014,BCS-5F/7F,Ms. Bushra Habib,90 min
+Mon,13:00-14:30,C-5,Computer Networks,CS3001,BCS-5D/7D,Mr. Nauman Moazzam Hayat,90 min
+Mon,13:00-14:30,C-6,Information Security,CS3002,BCS-7G/9G,Ms. Nosheen Manzoor,90 min
+Mon,13:00-14:30,C-7,Compiler Construction,CS4031,BCS-7F/9F,Mr. Hamad ul Qudous,90 min
+Mon,13:00-14:30,D-11,Parallel and Distributed Computing,CS3006,BCS-7A/9A,Dr. Abdul Qadeer,90 min
+Mon,13:00-14:30,Eng Lab-1,Data Analysis and Visualization Lab,DL3001,BDS-5A/7A,TBA,90 min
+Mon,13:00-14:30,Eng Lab-2,Data Analysis and Visualization Lab,DL3001,BDS-5B/7B,TBA,90 min
+Mon,13:00-14:30,Eng Lab-3,Programming Fundamental Lab,CL1002,BAI-1A2,TBA,90 min
+Mon,13:00-14:30,Eng Lab-4,Understanding of Holy Quran II/Ethics II,SS1022,,Mr. Zia ur Rehman,90 min
+Mon,13:00-14:30,F-201,Parallel and Distributed Computing,CS3006,BCS-7K/9K,TBA,90 min
+Mon,13:00-14:30,F-202,Digital Image Processing,CS4055,BCS-9A,Dr. Asif Gilani,90 min
+Mon,13:00-14:30,F-203,Advanced Theory of Computation,CS5005,MCS-1A,Dr. Imran Farid Khan,90 min
+Mon,13:00-14:30,F-204,ACN/Wireless Sensor Networks,CSXXX,MCS-3A,TBA,90 min
+Mon,13:00-14:30,F-205,Applied Physics,NS1001,BSE-1C,TBA,90 min
+Mon,13:00-14:30,F-206,Computer Organization and Assembly Language,EE2003,BSE-3A,TBA,90 min
+Mon,13:00-14:30,F-207,Probability and Statistics,MT2005,BSE-3C,Ms. Kanwal Saleem,90 min
+Mon,13:00-14:30,F-208,Software Construction and Development,SE3005,BSE-5A,Mr. Arslan Asif,90 min
+Mon,13:00-14:30,F-209,Information Security,CS3002,BSE-7A,Ms. Sarah Abid Khan,90 min
+Mon,13:00-14:30,F-210,Parallel and Distributed Computing,CS3006,BSE-7B,Mr. Razi uddin,90 min
+Mon,13:00-14:30,F-301,Final Year Project - II,SE4092,BSE-9A,TBA,90 min
+Mon,13:00-14:30,F-302,MS Thesis-I,CS5091,MSP-3A,TBA,90 min
+Mon,13:00-14:30,F-303,MS Practicum - II,CS5088,MSP-5A,TBA,90 min
+Mon,13:00-14:30,F-304,Introduction to Information and Communication Technology,CL1000,BDS-1A,Ms. Mamoona Majid,90 min
+Mon,13:00-14:30,F-305,Ideology and Constitution of Pakistan,SS1013,BDS-1C,TBA,90 min
+Mon,13:00-14:30,F-306,Probability and Statistics,MT2005,BDS-3B,Ms. Sarah Ahmad,90 min
+Mon,13:00-14:30,F-307,Applied Physics (merged with SE),NS1001,BDS-3A,TBA,90 min
+Mon,13:00-14:30,F-308,Computer Networks,CS3001,BDS-7C,TBA,90 min
+Mon,13:00-14:30,F-309,Generative AI,AI4009,BDS-7A,Dr. Maryam Bashir,90 min
+Mon,13:00-14:30,F-310,Software for Mobile Devices,CS4039,BDS-9A,Mr. Waqas Ali,90 min
+Mon,13:00-14:30,F-311,Functional English,SS1012,BAI-1A,Zainab Mubarak,90 min
+Mon,13:00-14:30,F-312,Calculus and Analytical Geometry,MT1003,BCY-1A,Ms. Amina Aslam VF,90 min
+Mon,13:00-14:30,S. Hall,Database and Operating Systems,CSXXXX,MCI-1A,TBA,90 min
+Mon,14:30-16:00,C-1,Discrete Structures,CS1005,BCS-3A/5A,Dr. Imran Farid Khan,90 min
+Mon,14:30-16:00,C-13,Linear Algebra,MT1004,BCS-3D/5D,Dr. Akhlaq Ahmad Bhatti,90 min
+Mon,14:30-16:00,C-14,Applied Human Computer Interaction,CS3014,BCS-5G/7G,Ms. Bushra Habib,90 min
+Mon,14:30-16:00,C-2,Computer Networks,CS3001,BCS-5A/7A,Dr. Abdul Qadeer,90 min
+Mon,14:30-16:00,C-3,Design and Anlysis of Algorithms,CS2009,BCS-5F/7F,Mr. Sajid Ali Kazmi,90 min
+Mon,14:30-16:00,C-4,Information Security,CS3002,BCS-7C/9C,Ms. Aqsa Khalid,90 min
+Mon,14:30-16:00,C-5,Parallel and Distributed Computing,CS3006,BCS-7K/9K,TBA,90 min
+Mon,14:30-16:00,C-6,Data Analysis and Visualization,DS3001,BDS-5B/7B,Mr. Amir Iqbal,90 min
+Mon,14:30-16:00,C-7,Software Evolution and Re-Engineering,CSXXX,BCS-7A,Mr. Arslan Asif,90 min
+Mon,14:30-16:00,D-11,Final Year Project - II,CS4092,BCS-9A,TBA,90 min
+Mon,14:30-16:00,Eng Lab-1,Functional English Lab,SL1012,BCS-1E2/3E2,TBA,90 min
+Mon,14:30-16:00,Eng Lab-2,Computer Networks Lab,CL3001,BCS-5E/7D,TBA,90 min
+Mon,14:30-16:00,Eng Lab-3,Programming Fundamentals Lab,CL1002,BSE-1C,TBA,90 min
+Mon,14:30-16:00,Eng Lab-4,Functional Eng Lab,SL1012,BSE-1A2,TBA,90 min
+Mon,14:30-16:00,Eng Lab-5,Functional English Lab,SL1012,BCY-1B1,TBA,90 min
+Mon,14:30-16:00,Eng Lab-6,Functional English Lab,SL1012,BCY-1B2,TBA,90 min
+Mon,14:30-16:00,F-201,Theory of Programming Languages,CS5006,MCS-1A,Dr. Farooq Ahmed Rana,90 min
+Mon,14:30-16:00,F-202,Understanding of Holy Quran II/Ethics II,SS5016,MCS-3A,Mr. Hamza Janjua,90 min
+Mon,14:30-16:00,F-203,Probability and Statistics,MT2005,BSE-3C,Ms. Kanwal Saleem,90 min
+Mon,14:30-16:00,F-204,Software Quality Engineering,SE3002,BSE-5A,Dr. Ali Afzal Malik,90 min
+Mon,14:30-16:00,F-205,Digital Image Processing,CS4055,BSE-7A,Dr. Asif Gilani,90 min
+Mon,14:30-16:00,F-206,Management and Organizational Behavior,MG4006,MSP-1A,TBA,90 min
+Mon,14:30-16:00,F-207,Programming Fundamentals,CS1002,BDS-1C,TBA,90 min
+Mon,14:30-16:00,F-208,Calculus and Analytical Geometry,MT1003,BDS-1A,Dr. Komal Hassan VF,90 min
+Mon,14:30-16:00,F-209,Object Oriented Programming,CS1004,BDS-3A,Mr. Waqas Manzoor,90 min
+Mon,14:30-16:00,F-210,Computer Networks,CS3001,BDS-7C,TBA,90 min
+Mon,14:30-16:00,F-301,Web Programming,CS4032,BDS-7A,Ms. Mahhek Tahir,90 min
+Mon,14:30-16:00,F-302,Software for Mobile Devices,CS4039,BDS-9A,Mr. Waqas Ali,90 min
+Mon,14:30-16:00,F-303,MS Thesis-I,DS5091,MDS-3A,TBA,90 min
+Mon,14:30-16:00,F-304,Functional English,SS1012,BCY-1B,TBA,90 min
+Mon,14:30-16:00,F-305,Psychology,SS2019,BCY-1A,TBA,90 min
+Mon,14:30-16:00,F-306,Cyber Security,CY2004,BCY-3A,Dr. Arshad Ali,90 min
+Mon,14:30-16:00,F-307,Offensive Security,CY5008,MCY-3A,Dr. Ammar Haider,90 min
+Mon,14:30-16:00,F-308,Programming for AI (Python),CSXXXX,MCI-1A,TBA,90 min
+Mon,14:30-16:00,F-309,MS Thesis - I & II,CY5091/502,,TBA,90 min
+Mon,16:00-17:30,C-1,Discrete Structures,CS1005,BCS-3D/5D,Ms. Rubab Janjua,90 min
+Mon,16:00-17:30,C-13,Computer Networks,CS3001,BCS-5F/7F,Ms. Umm-e-Ammarah,90 min
+Mon,16:00-17:30,C-14,Parallel and Distributed Computing,CS3006,BCS-7D/9D,Mr. Danyal Farhat,90 min
+Mon,16:00-17:30,C-2,Data Warehousing and Business Intellligence,DS3004,BDS-7A/9A,Mr. Ishaq Raza,90 min
+Mon,16:00-17:30,C-3,Understanding Sirat-Un-Nabi,SS1019,BCS-7A,TBA,90 min
+Mon,16:00-17:30,C-4,Introduction to Software Engineering,SE1001,BSE-3A,Dr. Zeeshan Ali Rana,90 min
+Mon,16:00-17:30,C-5,Understanding of Holy Quran II/Ethics II,SS1022,BSE-3B,TBA,90 min
+Mon,16:00-17:30,C-6,Digital Image Processing,CS4055,BSE-7A,Dr. Asif Gilani,90 min
+Mon,16:00-17:30,Eng Lab-1,Data Structures Lab,CL2001,BCS-3A/5A,Ms. Marwa Khan,90 min
+Mon,17:30-19:00,C-1,Information Security,CS3002,BCS-7K/9K,Mr. Usman Aamer,90 min
+Mon,17:30-19:00,C-13,Object Oriented Programming,CS1004,BCS-3A,Ms. Rida Hijab Basit,90 min
+Mon,17:30-19:00,C-14,Deep Learning,CSXXXX,BCS-7A,Mr. Saiful Islam,90 min
+Mon,17:30-19:00,C-2,Offensive Security,CY5008,MCY-3A,Dr. Ammar Haider,90 min
+Tue,08:30-10:00,C-1,Linear Algebra,MT1004,BCS-3D/5D,Dr. Akhlaq Ahmad Bhatti,90 min
+Tue,08:30-10:00,C-13,Understanding Holy Quran - I /Ethics - I,SS1021,BCS-3E/5E,TBA,90 min
+Tue,08:30-10:00,C-14,Computer Architecture,CS4075,BCS-5G/7G,Mr. Junaid Hussain Muzammil,90 min
+Tue,08:30-10:00,C-2,Computer Networks,CS3001,BCS-5B/7B,Dr. Ahmad Raza,90 min
+Tue,08:30-10:00,C-3,Design and Anlysis of Algorithms,CS2009,BCS-5D/7D,Ms. Abeeda Akram,90 min
+Tue,08:30-10:00,C-4,Compiler Construction,CS4031,BCS-7E/9E,Mr. Hamad ul Qudous,90 min
+Tue,08:30-10:00,C-5,Design and Analysis of Algorithms,CS2009,BDS-5A/7A,Mr. Sajid Ali Kazmi,90 min
+Tue,08:30-10:00,C-6,Computer Organization and Assembly Language,EE2003,BCS-5M,TBA,90 min
+Tue,08:30-10:00,C-7,Bioinformatics,CS4054,BCS-7B,Ms. Rushda Muneer,90 min
+Tue,08:30-10:00,D-11,Web Programming,CS4032,BCS-7A,Ms. Mahhek Tahir,90 min
+Tue,08:30-10:00,Eng Lab-1,Functional English Lab,SL1012,BCS-1D2/3D2,TBA,90 min
+Tue,08:30-10:00,Eng Lab-2,Functional English Lab,SL1012,BCS-1E1/3E1,TBA,90 min
+Tue,08:30-10:00,Eng Lab-3,Computer Organization and Assembly Language Lab,EL2003,BCS-3F/5F,Ms. Seemab Ayub,90 min
+Tue,08:30-10:00,Eng Lab-4,Functional Eng Lab,SL1012,BSE-1A1,TBA,90 min
+Tue,08:30-10:00,Eng Lab-5,Functional Eng Lab,SL1012,BSE-1C1,TBA,90 min
+Tue,08:30-10:00,Eng Lab-6,Function English Lab,SL1012,BDS-1B2,TBA,90 min
+Tue,08:30-10:00,F-201,French Language,SS2031,BCS-9A,TBA,90 min
+Tue,08:30-10:00,F-202,Deep Learning,CS5102,MCS-3A,Dr. Saira Karim,90 min
+Tue,08:30-10:00,F-203,Programming Fundamentals,CS1002,BSE-1A,Ms. Anosha Khan,90 min
+Tue,08:30-10:00,F-204,Programming Fundamentals,CS1002,BSE-1C,TBA,90 min
+Tue,08:30-10:00,F-205,Computer Organization and Assembly Language,EE2003,BSE-3C,TBA,90 min
+Tue,08:30-10:00,F-206,Operating Systems,CS2006,BSE-5A,Mr. Razi uddin (VF),90 min
+Tue,08:30-10:00,F-207,DevOps,CS4067,BSE-7A,Mr. Durraiz Waseem,90 min
+Tue,08:30-10:00,F-208,Calculus and Analytical Geometry,MT1003,BDS-1C,TBA,90 min
+Tue,08:30-10:00,F-209,Chinese Language,SS2032,BDS-7A,Amna Latif,90 min
+Tue,08:30-10:00,F-210,Calculus and Analytical Geometry,MT1003,BAI-1A,Ms. Amina Aslam VF,90 min
+Tue,08:30-10:00,F-301,Applied Programming,CS4002,MCY-1A,TBA,90 min
+Tue,08:30-10:00,F-302,MS Thesis - I,CY5091,,TBA,90 min
+Tue,08:30-10:00,Lab-1,Data Structures Lab,CL2001,BDS-3B,TBA,90 min
+Tue,08:30-10:00,Lab-13,Computer Organization and Assembly Language  Lab,EL2003,BCY-3A1,TBA,90 min
+Tue,10:00-11:30,C-1,Introduction to Information and Communication Technology,CL1000,BCS-1E/3E,Ms. Hina Iqbal,90 min
+Tue,10:00-11:30,C-13,Programming Fundamentals,CS1002,BCS-1F/3F,Mr. Saifullah Tanvir,90 min
+Tue,10:00-11:30,C-14,Data Structures,CS2001,BCS-3D/5D,Dr. Saira Karim,90 min
+Tue,10:00-11:30,C-2,Computer Organization and Assembly Language,EE2003,BCS-3E/5E,Ms. Aleena Ahmad,90 min
+Tue,10:00-11:30,C-3,Discrete Structures,CS1005,BCS-3F/5F,Ms. Rubab Janjua,90 min
+Tue,10:00-11:30,C-4,Applied Human Computer Interaction,CS3014,BCS-5C/7C,Ms. Sukhan Amir,90 min
+Tue,10:00-11:30,C-5,Applied Human Computer Interaction,CS3014,BCS-5D/7D,Mr. Waqas Manzoor,90 min
+Tue,10:00-11:30,C-6,Computer Architecture,CS4075,BCS-5B/7B,Dr. Zeeshan Ali Khan,90 min
+Tue,10:00-11:30,C-7,Computer Architecture,CS4075,BCS-5G/7G,Mr. Junaid Hussain Muzammil,90 min
+Tue,10:00-11:30,D-11,Compiler Construction,CS4031,BCS-7C/9C,Mr. Aamir Raheem,90 min
+Tue,10:00-11:30,Eng Lab-1,Computer Organization and Assembly Language Lab,EL2003,BCS-5M,TBA,90 min
+Tue,10:00-11:30,Eng Lab-2,Object Oriented Programming Lab,CL1004,BDS-3B,Mr. Durraiz Waseem,90 min
+Tue,10:00-11:30,F-201,Design and Analysis of Algorithms,CS2009,BDS-5A/7A,Mr. Sajid Ali Kazmi,90 min
+Tue,10:00-11:30,F-202,Understanding Holy Quran - II /Ethics - II,SS1022,BCS-3C,TBA,90 min
+Tue,10:00-11:30,F-203,Software Evolution and Re-Engineering,CSXXX,BCS-7A,Mr. Arslan Asif,90 min
+Tue,10:00-11:30,F-204,Technical and Business Writing,SS2007,BCS-9A,TBA,90 min
+Tue,10:00-11:30,F-205,ACN/Wireless Sensor Networks,CSXXX,MCS-3A,TBA,90 min
+Tue,10:00-11:30,F-206,Programming Fundamentals,CS1002,BSE-1A,Ms. Anosha Khan,90 min
+Tue,10:00-11:30,F-207,Ideology and Constitution of Pakistan,SS1013,BSE-1C,TBA,90 min
+Tue,10:00-11:30,F-208,Introduction to Software Engineering,SE1001,BSE-3A,Dr. Zeeshan Ali Rana,90 min
+Tue,10:00-11:30,F-209,Artificial Intelligence,AI2002,BSE-5A,Dr. Hajra Waheed,90 min
+Tue,10:00-11:30,F-210,Final Year Project -I,SE4091,BSE-7A,TBA,90 min
+Tue,10:00-11:30,F-301,Calculus and Analytical Geometry,MT1003,BDS-1C,TBA,90 min
+Tue,10:00-11:30,F-302,Computer Networks,CS3001,BDS-7A,Ms. Umm-e-Ammarah,90 min
+Tue,10:00-11:30,F-303,Professional Practices in IT,CS4001,BDS-9A,TBA,90 min
+Tue,10:00-11:30,F-304,Calculus and Analytical Geometry,MT1003,BAI-1A,Ms. Amina Aslam VF,90 min
+Tue,10:00-11:30,F-305,Programming for AI,AI2001,BAI-3A,Ms. Mahhek Tahir,90 min
+Tue,10:00-11:30,F-306,Cyber Security,CY2004,BCY-3A,Dr. Arshad Ali,90 min
+Tue,10:00-11:30,F-307,Programming for AI (Python),CSXXXX,MCI-1A,TBA,90 min
+Tue,11:30-13:00,C-1,Programming Fundamentals,CS1002,BCS-1E/3E,Ms. Namra Absar,90 min
+Tue,11:30-13:00,C-13,Functional English,SS1012,BCS-1A/3A,Ms. Nokhaiz Zahra,90 min
+Tue,11:30-13:00,C-14,Data Structures,CS2001,BCS-3C/5C,Dr. Saira Karim,90 min
+Tue,11:30-13:00,C-2,Computer Organization and Assembly Language,EE2003,BCS-3F/5F,Ms. Aleena Ahmad,90 min
+Tue,11:30-13:00,C-3,Discrete Structures,CS1005,BCS-3A/5A,Dr. Imran Farid Khan,90 min
+Tue,11:30-13:00,C-4,Discrete Structures,CS1005,BCS-3D/5D,Ms. Rubab Janjua,90 min
+Tue,11:30-13:00,C-5,Linear Algebra,MT1004,BCS-3E/5E,Dr. Muzamil Hanif VF,90 min
+Tue,11:30-13:00,C-6,Applied Human Computer Interaction,CS3014,BCS-5B/7B,Ms. Sukhan Amir,90 min
+Tue,11:30-13:00,C-7,Applied Human Computer Interaction,CS3014,BCS-5E/7E,Mr. Waqas Manzoor,90 min
+Tue,11:30-13:00,D-11,Computer Architecture,CS4075,BCS-5D/7D,Ms. Saba Sajid,90 min
+Tue,11:30-13:00,Eng Lab-1,Programming Fundamentals Lab,CL1002,BCS-1F/3F,Mr. Saifullah Tanvir,90 min
+Tue,11:30-13:00,Eng Lab-2,Functional English Lab,SL1012,BAI-1A1,TBA,90 min
+Tue,11:30-13:00,Eng Lab-3,Programming for AI - Lab,AL2001,BAI-3A,TBA,90 min
+Tue,11:30-13:00,Eng Lab-4,Artificial Intelligence,AI2002,BDS-5A,Dr. Hajra Waheed,90 min
+Tue,11:30-13:00,Eng Lab-5,Computer Networks,CS3001,BDS-7B,Ms. Umm-e-Ammarah,90 min
+Tue,11:30-13:00,Eng Lab-6,Web Programming,CS4032,BDS-7A,Ms. Mahhek Tahir,90 min
+Tue,11:30-13:00,F-201,Computer Networks,CS3001,BCS-5H/7H,Ms. Sarah Khaleel,90 min
+Tue,11:30-13:00,F-202,Design and Anlysis of Algorithms,CS2009,BCS-5F/7F,Mr. Sajid Ali Kazmi,90 min
+Tue,11:30-13:00,F-203,Design and Anlysis of Algorithms,CS2009,BCS-5G/7G,Mr. Usama Alvi,90 min
+Tue,11:30-13:00,F-204,Software Engineering,CS3009,BCS-5C/7C,Mr. Zeeshan Nazar,90 min
+Tue,11:30-13:00,F-205,Information Security,CS3002,BCS-7C/9C,Ms. Aqsa Khalid,90 min
+Tue,11:30-13:00,F-206,Compiler Construction,CS4031,BCS-7A/9A,Mr. Aamir Raheem,90 min
+Tue,11:30-13:00,F-207,Parallel and Distributed Computing,CS3006,BCS-7D/9D,Mr. Danyal Farhat,90 min
+Tue,11:30-13:00,F-208,Parallel and Distributed Computing,CS3006,BCS-7G/9G,Mr. Mubashar Hussain,90 min
+Tue,11:30-13:00,F-209,Design and Analysis of Algorithms,CS2009,BSE-5A/7A,Dr. Aasim Qureshi,90 min
+Tue,11:30-13:00,F-210,Computer Organization and Assembly Language,EE2003,BCS-5M,TBA,90 min
+Tue,11:30-13:00,F-301,Bioinformatics,CS4054,BCS-7B,Ms. Rushda Muneer,90 min
+Tue,11:30-13:00,F-302,Digital Image Processing,CS4055,BCS-9A,Dr. Asif Gilani,90 min
+Tue,11:30-13:00,F-303,Programming Fundamentals,CS1002,BSE-1B,Ms. Anosha Khan,90 min
+Tue,11:30-13:00,F-304,Functional English,SS1012,BSE-1C,TBA,90 min
+Tue,11:30-13:00,F-305,Understanding of Holy Quran II/Ethics II,SS1022,BSE-3A,TBA,90 min
+Tue,11:30-13:00,F-306,Software Construction and Development,SE3005,BSE-5B,Mr. Arslan Asif,90 min
+Tue,11:30-13:00,F-307,DevOps,CS4067,BSE-7B,Mr. Durraiz Waseem,90 min
+Tue,11:30-13:00,F-308,Deep Learning for Perception,CS4045,BSE-7A,Mr. Saiful Islam,90 min
+Tue,11:30-13:00,F-309,Software Construction and Development,SE3001,BSE-9A,TBA,90 min
+Tue,11:30-13:00,F-310,Programming Fundamentals,CS1002,BDS-1C,TBA,90 min
+Tue,11:30-13:00,F-311,Understanding Seerat-un-Nabi (PBUH),SS1019,BDS-1A,Dr. Adnan Faisal,90 min
+Tue,11:30-13:00,F-312,Computer Organization and Assembly Language,EE2003,BDS-3B,Ms. Sana Fatima,90 min
+Tue,11:30-13:00,Lab-1,MLOps for Cloud-Native Applications,AI5009,MDS-3A,Dr. Irfan Younas,90 min
+Tue,11:30-13:00,Lab-13,MS Thesis-II,DS5092,MDS-9A,TBA,90 min
+Tue,11:30-13:00,Lab-14,Reserved for Maths,RXXXX,MCS-3A,TBA,90 min
+Tue,11:30-13:00,Lab-15,Understanding of Holy Quran I/Ethics I,SS1021,BCY-3A,Mr. Irfan Rana,90 min
+Tue,11:30-13:00,Lab-16,Programming for AI (Python),CSXXXX,MCI-1A,TBA,90 min
+Tue,11:30-13:00,S. Hall,Applied Physics (merged with SE),NS1001,BDS-3A,TBA,90 min
+Tue,13:00-14:30,C-1,Calculus and Analytical Geometry,MT1003,BCS-1E/3E,Dr. Mazhar Hussain,90 min
+Tue,13:00-14:30,C-13,Ideology and Consittution of Pakistan,SS1013,BCS-1F/3F,Muhammad Tahir Rahisd,90 min
+Tue,13:00-14:30,C-14,Functional English,SS1012,BCS-1G/3G,Dr. Kulsoom,90 min
+Tue,13:00-14:30,C-2,Data Structures,CS2001,BCS-3D/5D,Dr. Saira Karim,90 min
+Tue,13:00-14:30,C-3,Computer Organization and Assembly Language,EE2003,BCS-3G/5G,Ms. Aleena Ahmad,90 min
+Tue,13:00-14:30,C-4,Discrete Structures,CS1005,BCS-3F/5F,Ms. Rubab Janjua,90 min
+Tue,13:00-14:30,C-5,Linear Algebra,MT1004,BCS-3E/5E,Dr. Muzamil Hanif VF,90 min
+Tue,13:00-14:30,C-6,Applied Human Computer Interaction,CS3014,BCS-5C/7C,Ms. Sukhan Amir,90 min
+Tue,13:00-14:30,C-7,Computer Architecture,CS4075,BCS-5D/7D,Ms. Saba Sajid,90 min
+Tue,13:00-14:30,D-11,Design and Anlysis of Algorithms,CS2009,BCS-5A/7A,Dr. Tahir Ejaz,90 min
+Tue,13:00-14:30,Eng Lab-1,Programming Fundamentals Lab,CL1002,BCS-1A/3A,TBA,90 min
+Tue,13:00-14:30,Eng Lab-2,Data Structures Lab,CL2001,BCS-3C/5C,TBA,90 min
+Tue,13:00-14:30,Eng Lab-3,Data Structures Lab,CL2001,BCS-3H/5H,TBA,90 min
+Tue,13:00-14:30,Eng Lab-4,Computer Organization and Assembly Language Lab,EL2003,BCS-3A/5A,TBA,90 min
+Tue,13:00-14:30,Eng Lab-5,Computer Networks Lab,CL3001,BCS-5G/7G,Ms. Sarah Khaleel,90 min
+Tue,13:00-14:30,Eng Lab-6,Computer Networks Lab,CL3001,BCS-5H/7H,TBA,90 min
+Tue,13:00-14:30,F-201,Software Engineering,CS3009,BCS-5B/7B,Ms. Lehmia Kiran,90 min
+Tue,13:00-14:30,F-202,Software Engineering,CS3009,BCS-5E/7E,Mr. Zeeshan Nazar,90 min
+Tue,13:00-14:30,F-203,Information Security,CS3002,BCS-7C/9C,Ms. Aqsa Khalid,90 min
+Tue,13:00-14:30,F-204,Compiler Construction,CS4031,BCS-7A/9A,Mr. Aamir Raheem,90 min
+Tue,13:00-14:30,F-205,Parallel and Distributed Computing,CS3006,BCS-7H/9H,Mr. Razi uddin,90 min
+Tue,13:00-14:30,F-206,Parallel and Distributed Computing,CS3006,BCS-7J/9J,Mr. Mubashar Hussain,90 min
+Tue,13:00-14:30,F-207,MLOps,CS4085,BCS-7B,Mr. Usman Anwer,90 min
+Tue,13:00-14:30,F-208,Fundamentals of Software Project Management,CS4044,BCS-9A,Ms. Momna Zaneb,90 min
+Tue,13:00-14:30,F-209,MS Thesis - I,CS5091,MCS-3A,TBA,90 min
+Tue,13:00-14:30,F-210,Functional English,SS1012,BSE-1B,Ms Faseeha,90 min
+Tue,13:00-14:30,F-301,Anthropology,XXXXX,BSE-1C,TBA,90 min
+Tue,13:00-14:30,F-302,Data Structures,CS2001,BSE-3A,Mr. Waqas Ali,90 min
+Tue,13:00-14:30,F-303,Software Quality Engineering,SE3002,BSE-5B,Dr. Ali Afzal Malik,90 min
+Tue,13:00-14:30,F-304,DevOps,CS4067,BSE-7B,Mr. Durraiz Waseem,90 min
+Tue,13:00-14:30,F-305,Deep Learning for Perception,CS4045,BSE-7A,Mr. Saiful Islam,90 min
+Tue,13:00-14:30,F-306,Management and Organizational Behavior,MG4006,MSP-1A,TBA,90 min
+Tue,13:00-14:30,F-307,MS Practicum - I,CS5087,MSP-3A,Dr. G. A. Farrukh,90 min
+Tue,13:00-14:30,F-308,Functional English,SS1012,BDS-1C,TBA,90 min
+Tue,13:00-14:30,F-309,Understanding Seerat-un-Nabi (PBUH),SS1019,BDS-1B,Dr. Adnan Faisal,90 min
+Tue,13:00-14:30,F-310,Data Structures,CS2001,BDS-3A,Mr. Uzair Naqvi,90 min
+Tue,13:00-14:30,F-311,Probability and Statistics,MT2005,BDS-3B,Ms. Sarah Ahmad,90 min
+Tue,13:00-14:30,F-312,Data Warehousing and Business Intellligence,DS3004,BDS-5B,Mr. Ishaq Raza,90 min
+Tue,13:00-14:30,Lab-1,Computer Organization and Assembly Language Lab,EL2003,BSE-3B,TBA,90 min
+Tue,13:00-14:30,Lab-13,Software Construction and Development - Lab,SL3001,BSE-9A,TBA,90 min
+Tue,13:00-14:30,Lab-14,Data Warehousing and Business Intelligence Lab,DS3004,BDS-5A,Ms. Eesha tur Razia,90 min
+Tue,13:00-14:30,Lab-15,MS Thesis-II,DS5092,MDS-9A,TBA,90 min
+Tue,13:00-14:30,Lab-16,Functional English,SS1012,BAI-1A,Zainab Mubarak,90 min
+Tue,13:00-14:30,Lab-17,Programming for AI,AI2001,BAI-3A,Ms. Mahhek Tahir,90 min
+Tue,13:00-14:30,Lab-18,Data Structures,CS2001,BCY-3A,Mr. Usama Alvi,90 min
+Tue,13:00-14:30,Lab-2,Database and Operating Systems,CSXXXX,MCI-1A,TBA,90 min
+Tue,13:00-14:30,Lab-3,Understanding of Holy Quran II/Ethics II,SS1022,,Mr. Naseer Ahmad,90 min
+Tue,13:00-14:30,S. Hall,MLOps,CS4085,BDS-7A,Dr. Irfan Younas,90 min
+Tue,14:30-16:00,C-1,Introduction to Information and Communication Technology,CL1000,BCS-1C/3C,Ms. Maham Naeem,90 min
+Tue,14:30-16:00,C-13,Programming Fundamentals,CS1002,BCS-1A/3A,TBA,90 min
+Tue,14:30-16:00,C-14,Calculus and Analytical Geometry,MT1003,BCS-1B/3B,Dr. Saeeda Zia,90 min
+Tue,14:30-16:00,C-2,Calculus and Analytical Geometry,MT1003,BCS-1D/3D,Dr. Mazhar Hussain,90 min
+Tue,14:30-16:00,C-3,Ideology and Consittution of Pakistan,SS1013,BCS-1E/3E,Muhammad Tahir Rahisd,90 min
+Tue,14:30-16:00,C-4,Data Structures,CS2001,BCS-3B/5B,Dr. Zareen Alamgir,90 min
+Tue,14:30-16:00,C-5,Discrete Structures,CS1005,BCS-3E/5E,Ms. Rubab Janjua,90 min
+Tue,14:30-16:00,C-6,Linear Algebra,MT1004,BCS-3F/5F,Dr. Muhammad Rizwan VF,90 min
+Tue,14:30-16:00,C-7,Linear Algebra,MT1004,BCS-3H/5H,VF,90 min
+Tue,14:30-16:00,D-11,Computer Architecture,CS4075,BCS-5E/7E,Ms. Saba Sajid,90 min
+Tue,14:30-16:00,Eng Lab-1,Data Structures Lab,CL2001,BCS-3D/5D,TBA,90 min
+Tue,14:30-16:00,Eng Lab-2,Object Oriented Programming Lab,CL1004,BCS-3A,Ms. Mamoona Akbar,90 min
+Tue,14:30-16:00,Eng Lab-3,Programming Fundamentals Lab,CL1002,BDS-1A,TBA,90 min
+Tue,14:30-16:00,Eng Lab-4,Mathematics for Computational Intelligence,CSXXXX,MCI-1A,TBA,90 min
+Tue,14:30-16:00,F-201,Design and Anlysis of Algorithms,CS2009,BCS-5G/7G,Mr. Usama Alvi,90 min
+Tue,14:30-16:00,F-202,Software Engineering,CS3009,BCS-5C/7C,Mr. Zeeshan Nazar,90 min
+Tue,14:30-16:00,F-203,Software Engineering,CS3009,BCS-5H/7H,Ms. Mehroze Khan,90 min
+Tue,14:30-16:00,F-204,Technical and Business Writting,CSXXX,BCS-5A/7A,Hajra Ikram,90 min
+Tue,14:30-16:00,F-205,Technical and Business Writting,CSXXX,BCS-5D/7D,Uzma Safdar,90 min
+Tue,14:30-16:00,F-206,Compiler Construction,CS4031,BCS-7C/9C,Mr. Aamir Raheem,90 min
+Tue,14:30-16:00,F-207,Data Analysis and Visualization,DS3001,BDS-5B/7B,Mr. Amir Iqbal,90 min
+Tue,14:30-16:00,F-208,Web Programming,CS4032,BCS-7A,Ms. Mahhek Tahir,90 min
+Tue,14:30-16:00,F-209,Data Science,CS4048,BCS-7B,Dr. Sobia Tariq Javed,90 min
+Tue,14:30-16:00,F-210,MLOps,CS4085,BCS-9A,Mr. Usman Anwer,90 min
+Tue,14:30-16:00,F-301,MS Thesis - I,CS5091,MCS-3A,TBA,90 min
+Tue,14:30-16:00,F-302,Data Structures,CS2001,BSE-3B,Mr. Waqas Ali,90 min
+Tue,14:30-16:00,F-303,Artificial Intelligence,AI2002,BSE-5B,Ms. Bushra Rashid,90 min
+Tue,14:30-16:00,F-304,Information Security,CS3002,BSE-7B,Ms. Sarah Abid Khan,90 min
+Tue,14:30-16:00,F-305,DevOps,CS4067,BSE-7A,Mr. Durraiz Waseem,90 min
+Tue,14:30-16:00,F-306,Software Project Management,CS5015,MSP-1A,Dr. Ali Afzal Malik,90 min
+Tue,14:30-16:00,F-307,Data Structures,CS2001,BDS-3B,Mr. Uzair Naqvi,90 min
+Tue,14:30-16:00,F-308,Probability and Statistics,MT2005,BDS-3A,Ms. Sarah Ahmad,90 min
+Tue,14:30-16:00,F-309,Artificial Intelligence,AI2002,BDS-5A,Dr. Hajra Waheed,90 min
+Tue,14:30-16:00,F-310,MLOps,CS4085,BDS-7A,Dr. Irfan Younas,90 min
+Tue,14:30-16:00,F-311,Programming Fundamentals,CS1002,BAI-1A,Dr. Mubasher Baig,90 min
+Tue,14:30-16:00,F-312,Data Structures,CS2001,BAI-3A,Ms. Rida Hijab Basit,90 min
+Tue,14:30-16:00,S. Hall,Offensive Security,CY5008,MCY-3A,Dr. Ammar Haider,90 min
+Tue,16:00-17:30,C-1,Calculus and Analytical Geometry,MT1003,BCS-1E/3E,Dr. Mazhar Hussain,90 min
+Tue,16:00-17:30,C-13,Bioinformatics,CS4054,BCS-7A,Ms. Rushda Muneer,90 min
+Tue,16:00-17:30,C-14,MLOps,CS4085,BCS-9A,Mr. Usman Anwer,90 min
+Tue,16:00-17:30,C-2,Statistical and Mathematical Methods for Data Science,DS5003,MDS-1A,Dr. Mubasher Baig,90 min
+Tue,16:00-17:30,Eng Lab-1,Artificial Intelligence - Lab,AL2002,BDS-5A,Ms. Mamoona Akbar,90 min
+Tue,17:30-19:00,C-1,Final Year Project - I,CS4091,BCS-7A,TBA,90 min
+Tue,17:30-19:00,C-13,Programming Fundamentals,CS1002,BDS-1A,Dr. Mubasher Baig,90 min
+Wed,08:30-10:00,C-1,Functional English,SS1012,BCS-1C/3C,Ms. Nokhaiz Zahra,90 min
+Wed,08:30-10:00,C-13,Computer Organization and Assembly Language,EE2003,BCS-3E/5E,Ms. Aleena Ahmad,90 min
+Wed,08:30-10:00,C-14,Computer Organization and Assembly Language,EE2003,BCS-3H/5H,Mr. Waqar Baig,90 min
+Wed,08:30-10:00,C-2,Discrete Structures,CS1005,BCS-3B/5B,Dr. Imran Farid Khan,90 min
+Wed,08:30-10:00,C-3,Discrete Structures,CS1005,BCS-3D/5D,Ms. Rubab Janjua,90 min
+Wed,08:30-10:00,C-4,Applied Human Computer Interaction,CS3014,BCS-5A/7A,Ms. Sukhan Amir,90 min
+Wed,08:30-10:00,C-5,Computer Architecture,CS4075,BCS-5B/7B,Dr. Zeeshan Ali Khan,90 min
+Wed,08:30-10:00,C-6,Design and Anlysis of Algorithms,CS2009,BCS-5E/7E,Ms. Abeeda Akram,90 min
+Wed,08:30-10:00,C-7,Software Engineering,CS3009,BCS-5C/7C,Mr. Zeeshan Nazar,90 min
+Wed,08:30-10:00,D-11,Technical and Business Writting,CSXXX,BCS-5F/7F,Razm ul Zafar,90 min
+Wed,08:30-10:00,Eng Lab-1,Functional English Lab,SL1012,BCS-1D1/3D1,TBA,90 min
+Wed,08:30-10:00,Eng Lab-2,Functional English Lab,SL1012,BCS-1F1/3F1,TBA,90 min
+Wed,08:30-10:00,Eng Lab-3,Computer Networks Lab,CL3001,BCS-5D/7D,TBA,90 min
+Wed,08:30-10:00,Eng Lab-4,Functional Eng Lab,SL1012,BSE-1B1,TBA,90 min
+Wed,08:30-10:00,Eng Lab-5,Data Structures Lab,CL2001,BDS-3A,TBA,90 min
+Wed,08:30-10:00,Eng Lab-6,Computer Organization and Assembly Language  Lab,EL2003,BCY-3A2,TBA,90 min
+Wed,08:30-10:00,F-201,Information Security,CS3002,BCS-7J/9J,Mr. Usman Aamer,90 min
+Wed,08:30-10:00,F-202,Parallel and Distributed Computing,CS3006,BCS-7C/9C,Mr. Danyal Farhat,90 min
+Wed,08:30-10:00,F-203,Data Science,CS4048,BCS-7A,Dr. Sobia Tariq Javed,90 min
+Wed,08:30-10:00,F-204,Final Year Project - II,CS4092,BCS-9A,TBA,90 min
+Wed,08:30-10:00,F-205,Anthropology,XXXXX,BSE-1A,Hamza Naeem,90 min
+Wed,08:30-10:00,F-206,Technical and Business Writing,SS2012,BSE-5A,Iqra Rafiq,90 min
+Wed,08:30-10:00,F-207,Technical and Business Writing,SS2012,BSE-5B,Huma Asif,90 min
+Wed,08:30-10:00,F-208,Ideology and Constitution of Pakistan,SS1013,BDS-1C,TBA,90 min
+Wed,08:30-10:00,F-209,Introduction to Data Science,DS2001,BDS-3B,Ms. Eesha tur Razia,90 min
+Wed,08:30-10:00,F-210,Professional Practices in IT,CS4001,BDS-9A,TBA,90 min
+Wed,08:30-10:00,F-301,Reserved for Maths,RXXXX,MCS-1A,TBA,90 min
+Wed,08:30-10:00,F-302,Applied Physics,NS1001,BCY-1B,TBA,90 min
+Wed,08:30-10:00,F-303,Functional English,SS1012,BCY-1A,Ms. Zakia Naeem,90 min
+Wed,08:30-10:00,F-304,MS Thesis - I,CY5091,,TBA,90 min
+Wed,08:30-10:00,F-305,MS Thesis - I & II,CY5091/502,,TBA,90 min
+Wed,10:00-11:30,C-1,Calculus and Analytical Geometry,MT1003,BCS-1B/3B,Dr. Saeeda Zia,90 min
+Wed,10:00-11:30,C-13,Ideology and Consittution of Pakistan,SS1013,BCS-1A/3A,Dr.Abdul Sattar,90 min
+Wed,10:00-11:30,C-14,Linear Algebra,MT1004,BCS-3C/5C,Dr. Muzamil Hanif VF,90 min
+Wed,10:00-11:30,C-2,Linear Algebra,MT1004,BCS-3D/5D,Dr. Akhlaq Ahmad Bhatti,90 min
+Wed,10:00-11:30,C-3,Applied Human Computer Interaction,CS3014,BCS-5A/7A,Ms. Sukhan Amir,90 min
+Wed,10:00-11:30,C-4,Computer Networks,CS3001,BCS-5D/7D,Mr. Nauman Moazzam Hayat,90 min
+Wed,10:00-11:30,C-5,Computer Networks,CS3001,BCS-5F/7F,Ms. Umm-e-Ammarah,90 min
+Wed,10:00-11:30,C-6,Design and Anlysis of Algorithms,CS2009,BCS-5C/7C,Dr. Aasim Qureshi,90 min
+Wed,10:00-11:30,C-7,Software Engineering,CS3009,BCS-5E/7E,Mr. Zeeshan Nazar,90 min
+Wed,10:00-11:30,D-11,Technical and Business Writting,CSXXX,BCS-5H/7H,Razm ul Zafar,90 min
+Wed,10:00-11:30,Eng Lab-1,Programming Fundamentals Lab,CL1002,BCS-1C/3C,TBA,90 min
+Wed,10:00-11:30,Eng Lab-2,Programming Fundamentals Lab,CL1002,BCS-1E/3E,TBA,90 min
+Wed,10:00-11:30,Eng Lab-3,Programming Fundamentals Lab,CL1002,BSE-1A,TBA,90 min
+Wed,10:00-11:30,Eng Lab-4,Programming Fundamental Lab,CL1002,BCY-1B,TBA,90 min
+Wed,10:00-11:30,F-201,Information Security,CS3002,BCS-7B/9B,Dr. Ammar Haider,90 min
+Wed,10:00-11:30,F-202,Information Security,CS3002,BCS-7D/9D,Ms. Aqsa Khalid,90 min
+Wed,10:00-11:30,F-203,Information Security,CS3002,BCS-7J/9J,Mr. Usman Aamer,90 min
+Wed,10:00-11:30,F-204,Parallel and Distributed Computing,CS3006,BCS-7C/9C,Mr. Danyal Farhat,90 min
+Wed,10:00-11:30,F-205,Design and Analysis of Algorithms,CS2009,BDS-5B/7B,Mr. Sajid Ali Kazmi,90 min
+Wed,10:00-11:30,F-206,Understanding Holy Quran - II /Ethics - II,SS1022,BCS-3B,TBA,90 min
+Wed,10:00-11:30,F-207,Theory of Automata,CS3005,BCS-7A,Dr. Sobia Tariq Javed,90 min
+Wed,10:00-11:30,F-208,Technical and Business Writing,SS2007,BCS-9A,TBA,90 min
+Wed,10:00-11:30,F-209,Advanced Operating System,CSXXX,MCS-1A,Dr. Zeeshan Ali Khan,90 min
+Wed,10:00-11:30,F-210,Applied Physics,NS1001,BSE-1C,TBA,90 min
+Wed,10:00-11:30,F-301,Functional English,SS1012,BSE-1B,Ms Faseeha,90 min
+Wed,10:00-11:30,F-302,Technical and Business Writing,SS2012,BSE-5B,Huma Asif,90 min
+Wed,10:00-11:30,F-303,Understanding Holy Quran,SS1018,BSE-5A,Mr. Irfan Rana,90 min
+Wed,10:00-11:30,F-304,Islamic Studies,SS1007,BDS-1C,TBA,90 min
+Wed,10:00-11:30,F-305,Computer Organization and Assembly Language,EE2003,BDS-3B,Ms. Sana Fatima,90 min
+Wed,10:00-11:30,F-306,Applied Physics (merged with SE),NS1001,BDS-3A,TBA,90 min
+Wed,10:00-11:30,F-307,Final Year Project - II,DS4092,BDS-9A,TBA,90 min
+Wed,10:00-11:30,F-308,Psychology,SS2019,BCY-1A,TBA,90 min
+Wed,10:00-11:30,F-309,Applied Information Security,CY5005,MCY-1A,Dr. Faisal Aslam,90 min
+Wed,11:30-13:00,C-1,Programming Fundamentals,CS1002,BCS-1E/3E,Ms. Namra Absar,90 min
+Wed,11:30-13:00,C-13,Calculus and Analytical Geometry,MT1003,BCS-1C/3C,Dr. Saeeda Zia,90 min
+Wed,11:30-13:00,C-14,Ideology and Consittution of Pakistan,SS1013,BCS-1A/3A,Dr.Abdul Sattar,90 min
+Wed,11:30-13:00,C-2,Computer Organization and Assembly Language,EE2003,BCS-3G/5G,Ms. Aleena Ahmad,90 min
+Wed,11:30-13:00,C-3,Computer Architecture,CS4075,BCS-5C/7C,Ms. Saba Sajid,90 min
+Wed,11:30-13:00,C-4,Computer Networks,CS3001,BCS-5F/7F,Ms. Umm-e-Ammarah,90 min
+Wed,11:30-13:00,C-5,Design and Anlysis of Algorithms,CS2009,BCS-5B/7B,Dr. Aasim Qureshi,90 min
+Wed,11:30-13:00,C-6,Design and Anlysis of Algorithms,CS2009,BCS-5H/7H,Mr. Usama Alvi,90 min
+Wed,11:30-13:00,C-7,Software Engineering,CS3009,BCS-5D/7D,Mr. Zeeshan Nazar,90 min
+Wed,11:30-13:00,D-11,Software Engineering,CS3009,BCS-5G/7G,Ms. Mehroze Khan,90 min
+Wed,11:30-13:00,Eng Lab-1,Database Systems Lab,CL2005,BCS-7A,TBA,90 min
+Wed,11:30-13:00,Eng Lab-2,Computer Organization and Assembly Language Lab,EL2003,BDS-3A,TBA,90 min
+Wed,11:30-13:00,Eng Lab-3,Computer Organization and Assembly Language Lab,EL2003,BDS-3B,TBA,90 min
+Wed,11:30-13:00,F-201,Technical and Business Writting,CSXXX,BCS-5A/7A,Hajra Ikram,90 min
+Wed,11:30-13:00,F-202,Technical and Business Writting,CSXXX,BCS-5E/7E,Uzma Safdar,90 min
+Wed,11:30-13:00,F-203,Information Security,CS3002,BCS-7D/9D,Ms. Aqsa Khalid,90 min
+Wed,11:30-13:00,F-204,Information Security,CS3002,BCS-7F/9F,Ms. Nosheen Manzoor,90 min
+Wed,11:30-13:00,F-205,Information Security,CS3002,BCS-7H/9H,Mr. Usman Aamer,90 min
+Wed,11:30-13:00,F-206,Compiler Construction,CS4031,BCS-7C/9C,Mr. Aamir Raheem,90 min
+Wed,11:30-13:00,F-207,Compiler Construction,CS4031,BCS-7E/9E,Mr. Hamad ul Qudous,90 min
+Wed,11:30-13:00,F-208,Compiler Construction,CS4031,BCS-7G/9G,Dr. Faisal Aslam,90 min
+Wed,11:30-13:00,F-209,Understanding Holy Quran - II /Ethics - II,SS1022,BCS-3D,TBA,90 min
+Wed,11:30-13:00,F-210,French Language,SS2031,BCS-9A,TBA,90 min
+Wed,11:30-13:00,F-301,Applied Physics,NS1001,BSE-1A,Mr. Faizan Saleem VF,90 min
+Wed,11:30-13:00,F-302,Calculus and Analytical Geometry,MT1003,BSE-1B,Dr. Muhammad Nasir Ali VF,90 min
+Wed,11:30-13:00,F-303,Probability and Statistics,MT2005,BSE-3A,Ms. Kanwal Saleem,90 min
+Wed,11:30-13:00,F-304,Software Quality Engineering,SE3002,BSE-5A,Dr. Ali Afzal Malik,90 min
+Wed,11:30-13:00,F-305,Understanding of Holy Quran II/Ethics II,SS5016,MSP-3A,TBA,90 min
+Wed,11:30-13:00,F-306,Introduction to Information and Communication Technology,CL1000,BDS-1C,TBA,90 min
+Wed,11:30-13:00,F-307,Calculus and Analytical Geometry,MT1003,BDS-1A,Dr. Komal Hassan VF,90 min
+Wed,11:30-13:00,F-308,Functional English,SS1012,BDS-1B,Ms Faseeha,90 min
+Wed,11:30-13:00,F-309,Artificial Intelligence,AI2002,BDS-5B,Ms. Bushra Rashid,90 min
+Wed,11:30-13:00,F-310,Chinese Language,SS2032,BDS-7A,Amna Latif,90 min
+Wed,11:30-13:00,F-311,Understanding of Holy Quran II/Ethics II,SS1022,BCY-3A,TBA,90 min
+Wed,11:30-13:00,F-312,Advanced Network Security,CY5006,MCY-1A,Dr. Arshad Ali,90 min
+Wed,13:00-14:30,C-1,Programming Fundamentals,CS1002,BCS-1A/3A,TBA,90 min
+Wed,13:00-14:30,C-13,Calculus and Analytical Geometry,MT1003,BCS-1F/3F,Mr. Waqar Azeem VF,90 min
+Wed,13:00-14:30,C-14,Linear Algebra,MT1004,BCS-3G/5G,Dr. Muhammad Rizwan VF,90 min
+Wed,13:00-14:30,C-2,Computer Architecture,CS4075,BCS-5G/7G,Mr. Junaid Hussain Muzammil,90 min
+Wed,13:00-14:30,C-3,Design and Anlysis of Algorithms,CS2009,BCS-5C/7C,Dr. Aasim Qureshi,90 min
+Wed,13:00-14:30,C-4,Software Engineering,CS3009,BCS-5E/7E,Mr. Zeeshan Nazar,90 min
+Wed,13:00-14:30,C-5,Software Engineering,CS3009,BCS-5F/7F,Ms. Mehroze Khan,90 min
+Wed,13:00-14:30,C-6,Technical and Business Writting,CSXXX,BCS-5B/7B,Hajra Ikram,90 min
+Wed,13:00-14:30,C-7,Information Security,CS3002,BCS-7G/9G,Ms. Nosheen Manzoor,90 min
+Wed,13:00-14:30,D-11,Compiler Construction,CS4031,BCS-7B/9B,Mr. Aamir Raheem,90 min
+Wed,13:00-14:30,Eng Lab-1,Data Warehousing and Business Intelligence Lab,DS3004,BDS-7A/9A,TBA,90 min
+Wed,13:00-14:30,Eng Lab-2,Computer Organization and Assembly Language Lab,EL2003,BSE-3A,TBA,90 min
+Wed,13:00-14:30,Eng Lab-3,Computer Organization and Assembly Language Lab,EL2003,BSE-3C,TBA,90 min
+Wed,13:00-14:30,Eng Lab-4,Programming Fundamental Lab,CL1002,BCY-1A,TBA,90 min
+Wed,13:00-14:30,F-201,Compiler Construction,CS4031,BCS-7D/9D,Mr. Hamad ul Qudous,90 min
+Wed,13:00-14:30,F-202,Parallel and Distributed Computing,CS3006,BCS-7E/9E,Mr. Danyal Farhat,90 min
+Wed,13:00-14:30,F-203,Web Programming,CS4032,BCS-7A,Ms. Mahhek Tahir,90 min
+Wed,13:00-14:30,F-204,Computer Networks,CS3001,BCS-7M,TBA,90 min
+Wed,13:00-14:30,F-205,Embedded Control for Robotics,CS4095,BCS-9A,TBA,90 min
+Wed,13:00-14:30,F-206,Research Methodology (Merged with DS),CS5001,MCS-3A,TBA,90 min
+Wed,13:00-14:30,F-207,Anthropology,XXXXX,BSE-1A,Hamza Naeem,90 min
+Wed,13:00-14:30,F-208,Understanding of Holy Quran I/Ethics I,SS1021,BSE-3B,TBA,90 min
+Wed,13:00-14:30,F-209,Software Construction and Development,SE3005,BSE-5A,Mr. Arslan Asif,90 min
+Wed,13:00-14:30,F-210,Fundamentals of Software Project Management,SE4002,BSE-9A,TBA,90 min
+Wed,13:00-14:30,F-301,Software Project Management,CS5015,MSP-1A,Dr. Ali Afzal Malik,90 min
+Wed,13:00-14:30,F-302,Programming Fundamentals,CS1002,BDS-1C,TBA,90 min
+Wed,13:00-14:30,F-303,Ideology and Constitution of Pakistan,SS1013,BDS-1A,Muznah Saleha,90 min
+Wed,13:00-14:30,F-304,Probability and Statistics,MT2005,BDS-3A,Ms. Sarah Ahmad,90 min
+Wed,13:00-14:30,F-305,Artificial Intelligence,AI2002,BDS-5B,Ms. Bushra Rashid,90 min
+Wed,13:00-14:30,F-306,Computer Networks,CS3001,BDS-7B,Ms. Umm-e-Ammarah,90 min
+Wed,13:00-14:30,F-307,Natural Language Processing,DS5007,MDS-1A,Dr. Hajra Waheed,90 min
+Wed,13:00-14:30,F-308,Calculus and Analytical Geometry,MT1003,BAI-1A,Ms. Amina Aslam VF,90 min
+Wed,13:00-14:30,F-309,Computer Organization and Assembly Language,EE2003,BCY-3A,TBA,90 min
+Wed,13:00-14:30,F-310,Applied Information Security,CY5005,MCY-1A,Dr. Faisal Aslam,90 min
+Wed,13:00-14:30,F-311,Data Structure and Algorithms,CSXXXX,MCI-1A,TBA,90 min
+Wed,14:30-16:00,C-1,Calculus and Analytical Geometry,MT1003,BCS-1A/3A,Dr. Saeeda Zia,90 min
+Wed,14:30-16:00,C-13,Functional English,SS1012,BCS-1F/3F,Dr. Kulsoom,90 min
+Wed,14:30-16:00,C-14,Data Structures,CS2001,BCS-3G/5G,Mr. Muhammad Naveed,90 min
+Wed,14:30-16:00,C-2,Computer Architecture,CS4075,BCS-5F/7F,TBA,90 min
+Wed,14:30-16:00,C-3,Computer Architecture,CS4075,BCS-5H/7H,Mr. Junaid Hussain Muzammil,90 min
+Wed,14:30-16:00,C-4,Computer Networks,CS3001,BCS-5A/7A,Dr. Abdul Qadeer,90 min
+Wed,14:30-16:00,C-5,Computer Networks,CS3001,BCS-5B/7B,Dr. Ahmad Raza,90 min
+Wed,14:30-16:00,C-6,Technical and Business Writting,CSXXX,BCS-5G/7G,Hajra Ikram,90 min
+Wed,14:30-16:00,C-7,Information Security,CS3002,BCS-7B/9B,Dr. Ammar Haider,90 min
+Wed,14:30-16:00,D-11,Compiler Construction,CS4031,BCS-7D/9D,Mr. Hamad ul Qudous,90 min
+Wed,14:30-16:00,Eng Lab-1,Functional English Lab,SL1012,BCS-1C1/3C1,TBA,90 min
+Wed,14:30-16:00,Eng Lab-2,Computer Networks Lab,CL3001,BCS-5J/7J,TBA,90 min
+Wed,14:30-16:00,Eng Lab-3,Data Structures Lab,CL2001,BSE-3A,TBA,90 min
+Wed,14:30-16:00,Eng Lab-4,Data Structures Lab,CL2001,BSE-3B,TBA,90 min
+Wed,14:30-16:00,Eng Lab-5,Function English Lab,SL1012,BDS-1C2,TBA,90 min
+Wed,14:30-16:00,Eng Lab-6,Introduction to Data Science Lab,DL2001,BDS-3A,TBA,90 min
+Wed,14:30-16:00,F-201,Parallel and Distributed Computing,CS3006,BCS-7E/9E,Mr. Danyal Farhat,90 min
+Wed,14:30-16:00,F-202,Deep Learning,CSXXXX,BCS-7A,Mr. Saiful Islam,90 min
+Wed,14:30-16:00,F-203,Digital Image Processing,CS4055,BCS-9A,Dr. Asif Gilani,90 min
+Wed,14:30-16:00,F-204,Introduction to Information and Communication Technology,CL1000,BSE-1A,Ms. Hina Iqbal,90 min
+Wed,14:30-16:00,F-205,Introduction to Software Engineering,SE1001,BSE-3C,Ms. Momna Zaneb,90 min
+Wed,14:30-16:00,F-206,Software Quality Engineering,SE3002,BSE-5A,Dr. Ali Afzal Malik,90 min
+Wed,14:30-16:00,F-207,Final Year Project - II,SE4092,BSE-9A,TBA,90 min
+Wed,14:30-16:00,F-208,Data Warehousing and Business Intellligence,DS3004,BDS-5B,Mr. Ishaq Raza,90 min
+Wed,14:30-16:00,F-209,Computer Networks,CS3001,BDS-7B,Ms. Umm-e-Ammarah,90 min
+Wed,14:30-16:00,F-210,Final Year Project -I,DS4091,BDS-7A,TBA,90 min
+Wed,14:30-16:00,F-301,MLOps for Cloud-Native Applications,AI5009,MDS-3A,Dr. Irfan Younas,90 min
+Wed,14:30-16:00,F-302,Programming Fundamentals,CS1002,BCY-1A,Ms. Mehwish Afshan,90 min
+Wed,14:30-16:00,Lab-1,Data Structures Lab,CL2001,BAI-3A,TBA,90 min
+Wed,14:30-16:00,Lab-13,Data Structures Lab,CL2001,BCY-3A,TBA,90 min
+Wed,16:00-17:30,C-1,Islamic Studies/Ethics,SS1007,BCS-1G/3G,Mr. Fawad Hashmi,90 min
+Wed,16:00-17:30,C-13,Data Structures,CS2001,BCS-3G/5G,Mr. Muhammad Naveed,90 min
+Wed,16:00-17:30,C-14,Computer Architecture,CS4075,BCS-5A/7A,Dr. Zeeshan Ali Khan,90 min
+Wed,16:00-17:30,C-2,Compiler Construction,CS4031,BCS-7E/9E,Mr. Hamad ul Qudous,90 min
+Wed,16:00-17:30,C-3,Parallel and Distributed Computing,CS3006,BCS-7B/9B,Dr. Abdul Qadeer,90 min
+Wed,16:00-17:30,C-4,Object Oriented Programming,CS1004,BCS-3A,Ms. Rida Hijab Basit,90 min
+Wed,16:00-17:30,C-5,Fundamentals of Software Project Management,CS4044,BCS-9A,Ms. Momna Zaneb,90 min
+Wed,16:00-17:30,C-6,Introduction to Software Engineering,SE1001,BSE-3A,Dr. Zeeshan Ali Rana,90 min
+Wed,16:00-17:30,C-7,Computer Networks,CS3001,BDS-7A,Ms. Umm-e-Ammarah,90 min
+Wed,16:00-17:30,D-11,Ideology and Constitution of Pakistan,SS1013,BAI-1A,Muhammad Asif,90 min
+Wed,16:00-17:30,Eng Lab-1,Computer Networks Lab,CL3001,BCS-5B/7B,TBA,90 min
+Wed,16:00-17:30,F-201,Linear Algebra,MT1004,BAI-3A,Dr. Aziz Ur Rehman VF,90 min
+Wed,17:30-19:00,C-1,Data Structures,CS2001,BCS-3F/5F,Mr. Muhammad Naveed,90 min
+Wed,17:30-19:00,C-13,Computer Organization and Assembly Language,EE2003,BCS-3G/5G,Ms. Aleena Ahmad,90 min
+Wed,17:30-19:00,C-14,Information Security,CS3002,BCS-7A/9A,Dr. Ammar Haider,90 min
+Wed,17:30-19:00,C-2,Chinese Language,SS2032,BDS-7A,Amna Latif,90 min
+Thu,08:30-10:00,C-1,Calculus and Analytical Geometry,MT1003,BCS-1F/3F,Mr. Waqar Azeem VF,90 min
+Thu,08:30-10:00,C-13,Computer Organization and Assembly Language,EE2003,BCS-3B/5B,Dr. Aatira Anum,90 min
+Thu,08:30-10:00,C-14,Discrete Structures,CS1005,BCS-3C/5C,Dr. Tahir Ejaz,90 min
+Thu,08:30-10:00,C-2,Applied Human Computer Interaction,CS3014,BCS-5G/7G,Ms. Bushra Habib,90 min
+Thu,08:30-10:00,C-3,Design and Anlysis of Algorithms,CS2009,BCS-5B/7B,Dr. Aasim Qureshi,90 min
+Thu,08:30-10:00,C-4,Technical and Business Writting,CSXXX,BCS-5F/7F,Razm ul Zafar,90 min
+Thu,08:30-10:00,C-5,Compiler Construction,CS4031,BCS-7H/9H,Dr. Faisal Aslam,90 min
+Thu,08:30-10:00,C-6,Parallel and Distributed Computing,CS3006,BCS-7A/9A,Dr. Abdul Qadeer,90 min
+Thu,08:30-10:00,C-7,Operations Research,MT4031,BCS-9A,TBA,90 min
+Thu,08:30-10:00,D-11,Research Methodology (Merged with DS),CS5001,MCS-3A,TBA,90 min
+Thu,08:30-10:00,Eng Lab-1,Functional English Lab,SL1012,BCS-1A2/3A2,TBA,90 min
+Thu,08:30-10:00,Eng Lab-2,Functional English Lab,SL1012,BCS-1B2/3B2,TBA,90 min
+Thu,08:30-10:00,Eng Lab-3,Functional English Lab,SL1012,BCS-1C2/3C2,TBA,90 min
+Thu,08:30-10:00,Eng Lab-4,Computer Networks Lab,CL3001,BCS-7M,TBA,90 min
+Thu,08:30-10:00,Eng Lab-5,Artificial Intelligence - Lab,AL2002,BSE-5A,Ms. Mamoona Akbar,90 min
+Thu,08:30-10:00,Eng Lab-6,Programming Fundamentals Lab,CL1002,BDS-1C,TBA,90 min
+Thu,08:30-10:00,F-201,Anthropology,XXXXX,BSE-1B,Hamza Naeem,90 min
+Thu,08:30-10:00,F-202,Final Year Project - II,DS4092,BDS-9A,TBA,90 min
+Thu,08:30-10:00,F-203,Computer Organization and Assembly Language,EE2003,BCY-3A,TBA,90 min
+Thu,08:30-10:00,F-204,Applied Physics,NS1001,,TBA,90 min
+Thu,08:30-10:00,Lab-1,Functional English Lab,SL1012,BCY-1A2,TBA,90 min
+Thu,10:00-11:30,C-1,Islamic Studies/Ethics,SS1007,BCS-1C/3C,Qurat ul Ain Fatima,90 min
+Thu,10:00-11:30,C-13,Functional English,SS1012,BCS-1B/3B,Ms. Nokhaiz Zahra,90 min
+Thu,10:00-11:30,C-14,Functional English,SS1012,BCS-1F/3F,Dr. Kulsoom,90 min
+Thu,10:00-11:30,C-2,Data Structures,CS2001,BCS-3G/5G,Mr. Muhammad Naveed,90 min
+Thu,10:00-11:30,C-3,Computer Organization and Assembly Language,EE2003,BCS-3H/5H,Mr. Waqar Baig,90 min
+Thu,10:00-11:30,C-4,Applied Human Computer Interaction,CS3014,BCS-5G/7G,Ms. Bushra Habib,90 min
+Thu,10:00-11:30,C-5,Design and Anlysis of Algorithms,CS2009,BCS-5A/7A,Dr. Tahir Ejaz,90 min
+Thu,10:00-11:30,C-6,Software Engineering,CS3009,BCS-5B/7B,Ms. Lehmia Kiran,90 min
+Thu,10:00-11:30,C-7,Information Security,CS3002,BCS-7F/9F,Ms. Nosheen Manzoor,90 min
+Thu,10:00-11:30,D-11,Compiler Construction,CS4031,BCS-7A/9A,Mr. Aamir Raheem,90 min
+Thu,10:00-11:30,Eng Lab-1,Computer Organization and Assembly Language Lab,EL2003,BCS-3C/5C,Ms. Seemab Ayub,90 min
+Thu,10:00-11:30,Eng Lab-2,Computer Networks Lab,CL3001,BCS-5F/7F,TBA,90 min
+Thu,10:00-11:30,Eng Lab-3,Functional Eng Lab,SL1012,BSE-1B2,TBA,90 min
+Thu,10:00-11:30,F-201,Understanding Holy Quran - II /Ethics - II,SS1022,BCS-3E,TBA,90 min
+Thu,10:00-11:30,F-202,Object Oriented Programming,CS1004,BCS-3A,Ms. Rida Hijab Basit,90 min
+Thu,10:00-11:30,F-203,Natural Language Processing,CS4063,BCS-9A,Ms. Mariam Nasim,90 min
+Thu,10:00-11:30,F-204,ACN/Wireless Sensor Networks,CSXXX,MCS-3A,TBA,90 min
+Thu,10:00-11:30,F-205,Calculus and Analytical Geometry,MT1003,BSE-1C,TBA,90 min
+Thu,10:00-11:30,F-206,Data Structures,CS2001,BSE-3A,Mr. Waqas Ali,90 min
+Thu,10:00-11:30,F-207,Artificial Intelligence,AI2002,BSE-5A,Dr. Hajra Waheed,90 min
+Thu,10:00-11:30,F-208,Management and Organizational Behavior,MG4006,MSP-1A,TBA,90 min
+Thu,10:00-11:30,F-209,MS Practicum - I,CS5087,MSP-3A,Dr. G. A. Farrukh,90 min
+Thu,10:00-11:30,F-210,Islamic Studies,SS1007,BDS-1C,TBA,90 min
+Thu,10:00-11:30,F-301,Professional Practices in IT,CS4001,BDS-9A,TBA,90 min
+Thu,10:00-11:30,F-302,MS Thesis-II,DS5092,MDS-9A,TBA,90 min
+Thu,10:00-11:30,F-303,Ideology and Constitution of Pakistan,SS1013,BAI-1A,Muhammad Asif,90 min
+Thu,10:00-11:30,F-304,Programming for AI,AI2001,BAI-3A,Ms. Mahhek Tahir,90 min
+Thu,10:00-11:30,F-305,Introduction to Information and Communication Technology,CL1001,BCY-1B,TBA,90 min
+Thu,10:00-11:30,F-306,Applied Physics,NS1001,BCY-1A,Dr. Saman Shahid,90 min
+Thu,10:00-11:30,F-307,Cyber Security,CY2004,BCY-3A,Dr. Arshad Ali,90 min
+Thu,11:30-13:00,C-1,Introduction to Information and Communication Technology,CL1000,BCS-1A/3A,Ms. Maham Naeem,90 min
+Thu,11:30-13:00,C-13,Introduction to Information and Communication Technology,CL1000,BCS-1F/3F,Ms. Rushda Muneer,90 min
+Thu,11:30-13:00,C-14,Programming Fundamentals,CS1002,BCS-1B/3B,Mr. Muhammad Kamran,90 min
+Thu,11:30-13:00,C-2,Programming Fundamentals,CS1002,BCS-1G/3G,Mr. Saifullah Tanvir,90 min
+Thu,11:30-13:00,C-3,Computer Organization and Assembly Language,EE2003,BCS-3C/5C,Ms. Samin Iftikhar,90 min
+Thu,11:30-13:00,C-4,Discrete Structures,CS1005,BCS-3A/5A,Dr. Imran Farid Khan,90 min
+Thu,11:30-13:00,C-5,Applied Human Computer Interaction,CS3014,BCS-5H/7H,Ms. Bushra Habib,90 min
+Thu,11:30-13:00,C-6,Software Engineering,CS3009,BCS-5A/7A,Ms. Lehmia Kiran,90 min
+Thu,11:30-13:00,C-7,Software Engineering,CS3009,BCS-5F/7F,Ms. Mehroze Khan,90 min
+Thu,11:30-13:00,D-11,Technical and Business Writting,CSXXX,BCS-5G/7G,Hajra Ikram,90 min
+Thu,11:30-13:00,Eng Lab-1,Computer Organization and Assembly Language Lab,EL2003,BCS-3E/5E,TBA,90 min
+Thu,11:30-13:00,Eng Lab-2,Computer Organization and Assembly Language Lab,EL2003,BCS-3H/5H,TBA,90 min
+Thu,11:30-13:00,F-201,Information Security,CS3002,BCS-7F/9F,Ms. Nosheen Manzoor,90 min
+Thu,11:30-13:00,F-202,Design and Analysis of Algorithms,CS2009,BSE-5B/7B,Dr. Tahir Ejaz,90 min
+Thu,11:30-13:00,F-203,Natural Language Processing,CS4063,BCS-7A,Ms. Mariam Nasim,90 min
+Thu,11:30-13:00,F-204,Operations Research,MT4031,BCS-9A,TBA,90 min
+Thu,11:30-13:00,F-205,Deep Learning,CS5102,MCS-3A,Dr. Saira Karim,90 min
+Thu,11:30-13:00,F-206,Programming Fundamentals,CS1002,BSE-1C,TBA,90 min
+Thu,11:30-13:00,F-207,Applied Physics,NS1001,BSE-1B,Mr. Faizan Saleem VF,90 min
+Thu,11:30-13:00,F-208,Data Structures,CS2001,BSE-3B,Mr. Waqas Ali,90 min
+Thu,11:30-13:00,F-209,Understanding of Holy Quran I/Ethics I,SS1021,BSE-3A,TBA,90 min
+Thu,11:30-13:00,F-210,Operating Systems,CS2006,BSE-5A,Mr. Razi uddin (VF),90 min
+Thu,11:30-13:00,F-301,Software Project Management,CS5015,MSP-1A,Dr. Ali Afzal Malik,90 min
+Thu,11:30-13:00,F-302,Functional English,SS1012,BDS-1C,TBA,90 min
+Thu,11:30-13:00,F-303,Islamic Studies,SS1007,BDS-1B,Dr. Adnan Faisal,90 min
+Thu,11:30-13:00,F-304,Introduction to Data Science,DS2001,BDS-3A,Dr. Asma Ahmad,90 min
+Thu,11:30-13:00,F-305,Final Year Project -I,DS4091,BDS-7A,TBA,90 min
+Thu,11:30-13:00,F-306,Final Year Project - II,DS4092,BDS-9A,TBA,90 min
+Thu,11:30-13:00,F-307,Reserved for Maths,RXXXX,MCS-1A,TBA,90 min
+Thu,11:30-13:00,F-308,Introduction to Information and Communication Technology,CL1001,BAI-1A2,Ms. Ansa Liaqat,90 min
+Thu,11:30-13:00,F-309,Understanding Seerat-un-Nabi (PBUH),SS1019,BAI-1A,Mr. Ziaurehman,90 min
+Thu,11:30-13:00,F-310,Data Structures,CS2001,BAI-3A,Ms. Rida Hijab Basit,90 min
+Thu,11:30-13:00,F-311,Applied Physics,NS1001,BCY-1A,Dr. Saman Shahid,90 min
+Thu,11:30-13:00,F-312,Data Structures,CS2001,BCY-3A,Mr. Usama Alvi,90 min
+Thu,11:30-13:00,S. Hall,Applied Physics,NS1001,,TBA,90 min
+Thu,13:00-14:30,C-1,Programming Fundamentals,CS1002,BCS-1B/3B,Mr. Muhammad Kamran,90 min
+Thu,13:00-14:30,C-13,Programming Fundamentals,CS1002,BCS-1F/3F,Mr. Saifullah Tanvir,90 min
+Thu,13:00-14:30,C-14,Calculus and Analytical Geometry,MT1003,BCS-1G/3G,Mr. Waqar Azeem VF,90 min
+Thu,13:00-14:30,C-2,Ideology and Consittution of Pakistan,SS1013,BCS-1D/3D,Dr.Abdul Sattar,90 min
+Thu,13:00-14:30,C-3,Islamic Studies/Ethics,SS1007,BCS-1A/3A,Qurat ul Ain Fatima,90 min
+Thu,13:00-14:30,C-4,Data Structures,CS2001,BCS-3H/5H,Ms. Rida Hijab Basit,90 min
+Thu,13:00-14:30,C-5,Computer Organization and Assembly Language,EE2003,BCS-3D/5D,Ms. Samin Iftikhar,90 min
+Thu,13:00-14:30,C-6,Discrete Structures,CS1005,BCS-3E/5E,Ms. Rubab Janjua,90 min
+Thu,13:00-14:30,C-7,Understanding Holy Quran - I /Ethics - I,SS1021,BCS-3A/5A,Hafiz Hamza Janjua,90 min
+Thu,13:00-14:30,D-11,Understanding Holy Quran - I /Ethics - I,SS1021,BCS-3C/5C,Mr. Naseer Ahmad,90 min
+Thu,13:00-14:30,Eng Lab-1,Computer Networks Lab,CL3001,BDS-7B,TBA,90 min
+Thu,13:00-14:30,Eng Lab-2,Programming Fundamentals,CS1002,BAI-1A,Dr. Mubasher Baig,90 min
+Thu,13:00-14:30,Eng Lab-3,Computer Organization and Assembly Language,EE2003,BAI-3A,Ms. Sana Fatima,90 min
+Thu,13:00-14:30,Eng Lab-4,Introduction to Information and Communication Technology,CL1001,BCY-1A,Ms. Nosheen Manzoor,90 min
+Thu,13:00-14:30,Eng Lab-5,Computer Organization and Assembly Language,EE2003,BCY-3A,TBA,90 min
+Thu,13:00-14:30,F-201,Computer Architecture,CS4075,BCS-5E/7E,Ms. Saba Sajid,90 min
+Thu,13:00-14:30,F-202,Computer Architecture,CS4075,BCS-5F/7F,TBA,90 min
+Thu,13:00-14:30,F-203,Computer Networks,CS3001,BCS-5B/7B,Dr. Ahmad Raza,90 min
+Thu,13:00-14:30,F-204,Design and Anlysis of Algorithms,CS2009,BCS-5G/7G,Mr. Usama Alvi,90 min
+Thu,13:00-14:30,F-205,Software Engineering,CS3009,BCS-5H/7H,Ms. Mehroze Khan,90 min
+Thu,13:00-14:30,F-206,Data Warehousing and Business Intellligence,DS3004,BDS-7A/9A,Mr. Ishaq Raza,90 min
+Thu,13:00-14:30,F-207,Bioinformatics,CS4054,BCS-7A,Ms. Rushda Muneer,90 min
+Thu,13:00-14:30,F-208,Natural Language Processing,CS4063,BCS-9A,Ms. Mariam Nasim,90 min
+Thu,13:00-14:30,F-209,Deep Learning,CS5102,MCS-3A,Dr. Saira Karim,90 min
+Thu,13:00-14:30,F-210,Introduction to Information and Communication Technology,CL1000,BSE-1B,Ms. Hina Iqbal,90 min
+Thu,13:00-14:30,F-301,Functional English,SS1012,BSE-1A,Zainab Mubarak,90 min
+Thu,13:00-14:30,F-302,Data Structures,CS2001,BSE-3A,Mr. Waqas Ali,90 min
+Thu,13:00-14:30,F-303,Computer Organization and Assembly Language,EE2003,BSE-3B,TBA,90 min
+Thu,13:00-14:30,F-304,Software Quality Engineering,SE3002,BSE-5B,Dr. Ali Afzal Malik,90 min
+Thu,13:00-14:30,F-305,Technical and Business Writing,SS2012,BSE-5A,Iqra Rafiq,90 min
+Thu,13:00-14:30,F-306,Fundamentals of Software Project Management,SE4002,BSE-9A,TBA,90 min
+Thu,13:00-14:30,F-307,Research Methodology,CS5001,MSP-1A,Dr. Asif Gillani,90 min
+Thu,13:00-14:30,F-308,MS Thesis-I,CS5091,MSP-3A,TBA,90 min
+Thu,13:00-14:30,F-309,Functional English,SS1012,BDS-1B,Ms Faseeha,90 min
+Thu,13:00-14:30,F-310,Data Structures,CS2001,BDS-3A,Mr. Uzair Naqvi,90 min
+Thu,13:00-14:30,F-311,Technical and Business Writing,SS2012,BDS-5B,Huma Asif,90 min
+Thu,13:00-14:30,F-312,MLOps for Cloud-Native Applications,AI5009,MDS-3A,Dr. Irfan Younas,90 min
+Thu,13:00-14:30,S. Hall,Reserved for Maths,RXXXX,MCS-2A,TBA,90 min
+Thu,14:30-16:00,C-1,Programming Fundamentals,CS1002,BCS-1G/3G,Mr. Saifullah Tanvir,90 min
+Thu,14:30-16:00,C-13,Islamic Studies/Ethics,SS1007,BCS-1F/3F,Dr. Adnan Faisal,90 min
+Thu,14:30-16:00,C-14,Functional English,SS1012,BCS-1A/3A,Ms. Nokhaiz Zahra,90 min
+Thu,14:30-16:00,C-2,Data Structures,CS2001,BCS-3F/5F,Mr. Muhammad Naveed,90 min
+Thu,14:30-16:00,C-3,Computer Organization and Assembly Language,EE2003,BCS-3D/5D,Ms. Samin Iftikhar,90 min
+Thu,14:30-16:00,C-4,Linear Algebra,MT1004,BCS-3A/5A,Dr. Akhlaq Ahmad Bhatti,90 min
+Thu,14:30-16:00,C-5,Linear Algebra,MT1004,BCS-3C/5C,Dr. Muzamil Hanif VF,90 min
+Thu,14:30-16:00,C-6,Applied Human Computer Interaction,CS3014,BCS-5B/7B,Ms. Sukhan Amir,90 min
+Thu,14:30-16:00,C-7,Applied Human Computer Interaction,CS3014,BCS-5H/7H,Ms. Bushra Habib,90 min
+Thu,14:30-16:00,D-11,Computer Architecture,CS4075,BCS-5A/7A,Dr. Zeeshan Ali Khan,90 min
+Thu,14:30-16:00,Eng Lab-1,Programming Fundamentals Lab,CL1002,BCS-1B/3B,Ms. Marwa Khan,90 min
+Thu,14:30-16:00,Eng Lab-2,Programming Fundamentals Lab,CL1002,BDS-1B,TBA,90 min
+Thu,14:30-16:00,Eng Lab-3,Data Structures,CS2001,BAI-3A,Ms. Rida Hijab Basit,90 min
+Thu,14:30-16:00,Eng Lab-4,Programming Fundamentals,CS1002,BCY-1A,Ms. Mehwish Afshan,90 min
+Thu,14:30-16:00,Eng Lab-5,Linear Algebra,MT1004,BCY-3A,Dr. Aziz Ur Rehman VF,90 min
+Thu,14:30-16:00,F-201,Computer Architecture,CS4075,BCS-5E/7E,Ms. Saba Sajid,90 min
+Thu,14:30-16:00,F-202,Computer Architecture,CS4075,BCS-5F/7F,TBA,90 min
+Thu,14:30-16:00,F-203,Software Engineering,CS3009,BCS-5G/7G,Ms. Mehroze Khan,90 min
+Thu,14:30-16:00,F-204,Information Security,CS3002,BCS-7G/9G,Ms. Nosheen Manzoor,90 min
+Thu,14:30-16:00,F-205,Compiler Construction,CS4031,BCS-7B/9B,Mr. Aamir Raheem,90 min
+Thu,14:30-16:00,F-206,Parallel and Distributed Computing,CS3006,BCS-7K/9K,TBA,90 min
+Thu,14:30-16:00,F-207,Applied Probability in Computing,CS4113,BDS-7A/BSE-9A,Dr. Ahmad Raza,90 min
+Thu,14:30-16:00,F-208,Understanding Holy Quran - II /Ethics - II,SS1022,BCS-3H,TBA,90 min
+Thu,14:30-16:00,F-209,Natural Language Processing,CS4063,BCS-7A,Ms. Mariam Nasim,90 min
+Thu,14:30-16:00,F-210,Introduction to Cloud Computing,CS4037,BCS-9A,Mr. Muhammad Kamran,90 min
+Thu,14:30-16:00,F-301,Understanding of Holy Quran I/Ethics I,SS5014,MCS-3A,Mr. Hamza Janjua,90 min
+Thu,14:30-16:00,F-302,Calculus and Analytical Geometry,MT1003,BSE-1B,Dr. Muhammad Nasir Ali VF,90 min
+Thu,14:30-16:00,F-303,Data Structures,CS2001,BSE-3B,Mr. Waqas Ali,90 min
+Thu,14:30-16:00,F-304,Software Construction and Development,SE3005,BSE-5B,Mr. Arslan Asif,90 min
+Thu,14:30-16:00,F-305,Information Security,CS3002,BSE-7B,Ms. Sarah Abid Khan,90 min
+Thu,14:30-16:00,F-306,DevOps,CS4067,BSE-7A,Mr. Durraiz Waseem,90 min
+Thu,14:30-16:00,F-307,Human Resource Management,MG5043,MSP-3A,Mr. Hasan Shehzad,90 min
+Thu,14:30-16:00,F-308,MS Thesis - II,CS5092,MSP-5A,TBA,90 min
+Thu,14:30-16:00,F-309,Data Structures,CS2001,BDS-3B,Mr. Uzair Naqvi,90 min
+Thu,14:30-16:00,F-310,Object Oriented Programming,CS1004,BDS-3A,Mr. Waqas Manzoor,90 min
+Thu,14:30-16:00,F-311,French Language,SS2031,BDS-7B,TBA,90 min
+Thu,14:30-16:00,F-312,Reserved for Maths,RXXXX,MCS-2A,TBA,90 min
+Thu,14:30-16:00,S. Hall,Islamic Studies/Ethics,SS1007,BAI-1A,Hafiz Hamza Janjua,90 min
+Thu,16:00-17:30,C-1,Ideology and Consittution of Pakistan,SS1013,BCS-1F/3F,Muhammad Tahir Rahisd,90 min
+Thu,16:00-17:30,C-13,Data Structures,CS2001,BCS-3A/5A,Dr. Zareen Alamgir,90 min
+Thu,16:00-17:30,C-14,Computer Organization and Assembly Language,EE2003,BCS-3C/5C,Ms. Samin Iftikhar,90 min
+Thu,16:00-17:30,C-2,Computer Architecture,CS4075,BCS-5A/7A,Dr. Zeeshan Ali Khan,90 min
+Thu,16:00-17:30,C-3,Software Engineering,CS3009,BCS-5G/7G,Ms. Mehroze Khan,90 min
+Thu,16:00-17:30,C-4,Parallel and Distributed Computing,CS3006,BCS-7G/9G,Mr. Mubashar Hussain,90 min
+Thu,16:00-17:30,C-5,Applied Probability in Computing,CS4113,BDS-7A/BSE-9A,Dr. Ahmad Raza,90 min
+Thu,16:00-17:30,C-6,Natural Language Processing,CS4063,BCS-7A,Ms. Mariam Nasim,90 min
+Thu,16:00-17:30,C-7,MLOps,CS4085,BCS-9A,Mr. Usman Anwer,90 min
+Thu,16:00-17:30,D-11,Ideology and Constitution of Pakistan,SS1013,BSE-1B,Quratulain Ilyas,90 min
+Thu,17:30-19:00,C-1,Programming Fundamentals,CS1002,BCS-1F/3F,Mr. Saifullah Tanvir,90 min
+Thu,17:30-19:00,C-13,Discrete Structures,CS1005,BCS-3C/5C,Dr. Tahir Ejaz,90 min
+Thu,17:30-19:00,C-14,Applied Human Computer Interaction,CS3014,BCS-5D/7D,Mr. Waqas Manzoor,90 min
+Thu,17:30-19:00,C-2,Computer Networks,CS3001,BCS-5G/7G,Ms. Sarah Khaleel,90 min
+Thu,17:30-19:00,C-3,Parallel and Distributed Computing,CS3006,BCS-7J/9J,Mr. Mubashar Hussain,90 min
+Thu,17:30-19:00,C-4,Data Analysis and Visualization,DS3001,BDS-5A/7A,Mr. Amir Iqbal,90 min
+Thu,17:30-19:00,C-5,Bioinformatics,CS4054,BCS-7A,Ms. Rushda Muneer,90 min
+Thu,17:30-19:00,C-6,Introduction to Software Engineering,SE1001,BSE-3C,Ms. Momna Zaneb,90 min
+Thu,17:30-19:00,C-7,Calculus and Analytical Geometry,MT1003,BDS-1B,Dr. Komal Hassan VF,90 min
+Thu,17:30-19:00,Eng Lab-1,Computer Networks Lab,CL3001,BDS-7A,Ms. Sarah Abid Khan,90 min
+Fri,08:30-10:00,C-1,Calculus and Analytical Geometry,MT1003,BCS-1A/3A,Dr. Saeeda Zia,90 min
+Fri,08:30-10:00,C-13,Functional English,SS1012,BCS-1B/3B,Ms. Nokhaiz Zahra,90 min
+Fri,08:30-10:00,C-14,Data Structures,CS2001,BCS-3B/5B,Dr. Zareen Alamgir,90 min
+Fri,08:30-10:00,C-2,Computer Architecture,CS4075,BCS-5C/7C,Ms. Saba Sajid,90 min
+Fri,08:30-10:00,C-3,Software Engineering,CS3009,BCS-5H/7H,Ms. Mehroze Khan,90 min
+Fri,08:30-10:00,C-4,Technical and Business Writting,CSXXX,BCS-5D/7D,Uzma Safdar,90 min
+Fri,08:30-10:00,C-5,Compiler Construction,CS4031,BCS-7G/9G,Dr. Faisal Aslam,90 min
+Fri,08:30-10:00,C-6,Parallel and Distributed Computing,CS3006,BCS-7F/9F,Mr. Mubashar Hussain,90 min
+Fri,08:30-10:00,C-7,Theory of Automata,CS3005,BCS-7A,Dr. Sobia Tariq Javed,90 min
+Fri,08:30-10:00,D-11,Embedded Control for Robotics,CS4095,BCS-9A,TBA,90 min
+Fri,08:30-10:00,Eng Lab-1,Functional English Lab,SL1012,BCS-1G2/3G2,TBA,90 min
+Fri,08:30-10:00,F-201,Applied Programming,CS4002,MCS-1A,Ms. Namra Absar,90 min
+Fri,08:30-10:00,F-202,Introduction to Information and Communication Technology,CL1000,BSE-1C,TBA,90 min
+Fri,08:30-10:00,F-203,Programming Fundamentals,CS1002,BSE-1B,Ms. Anosha Khan,90 min
+Fri,08:30-10:00,F-204,Applied Physics,NS1001,BSE-1A,Mr. Faizan Saleem VF,90 min
+Fri,08:30-10:00,F-205,Introduction to Software Engineering,SE1001,BSE-3C,Ms. Momna Zaneb,90 min
+Fri,08:30-10:00,F-206,Data Warehousing and Business Intellligence,DS3004,BDS-5A,Mr. Ishaq Raza,90 min
+Fri,08:30-10:00,F-207,Final Year Project -I,DS4091,BDS-7A,TBA,90 min
+Fri,08:30-10:00,F-208,Data Science Tools and Technique,DS5002,MDS-1A,Dr. Asma Ahmad,90 min
+Fri,10:00-11:30,C-1,Programming Fundamentals,CS1002,BCS-1D/3D,Ms. Namra Absar,90 min
+Fri,10:00-11:30,C-13,Calculus and Analytical Geometry,MT1003,BCS-1A/3A,Dr. Saeeda Zia,90 min
+Fri,10:00-11:30,C-14,Ideology and Consittution of Pakistan,SS1013,BCS-1B/3B,Dr.Abdul Sattar,90 min
+Fri,10:00-11:30,C-2,Islamic Studies/Ethics,SS1007,BCS-1E/3E,Qurat ul Ain Fatima,90 min
+Fri,10:00-11:30,C-3,Data Structures,CS2001,BCS-3A/5A,Dr. Zareen Alamgir,90 min
+Fri,10:00-11:30,C-4,Computer Organization and Assembly Language,EE2003,BCS-3F/5F,Ms. Aleena Ahmad,90 min
+Fri,10:00-11:30,C-5,Discrete Structures,CS1005,BCS-3B/5B,Dr. Imran Farid Khan,90 min
+Fri,10:00-11:30,C-6,Discrete Structures,CS1005,BCS-3H/5H,Ms. Mehwish Afshan,90 min
+Fri,10:00-11:30,C-7,Linear Algebra,MT1004,BCS-3C/5C,Dr. Muzamil Hanif VF,90 min
+Fri,10:00-11:30,D-11,Computer Architecture,CS4075,BCS-5D/7D,Ms. Saba Sajid,90 min
+Fri,10:00-11:30,Eng Lab-1,Computer Organization and Assembly Language  Lab,EL2003,BAI-3A,TBA,90 min
+Fri,10:00-11:30,F-201,Computer Networks,CS3001,BCS-5E/7E,Mr. Nauman Moazzam Hayat,90 min
+Fri,10:00-11:30,F-202,Computer Networks,CS3001,BCS-5H/7H,Ms. Sarah Khaleel,90 min
+Fri,10:00-11:30,F-203,Software Engineering,CS3009,BCS-5F/7F,Ms. Mehroze Khan,90 min
+Fri,10:00-11:30,F-204,Technical and Business Writting,CSXXX,BCS-5C/7C,Uzma Safdar,90 min
+Fri,10:00-11:30,F-205,Technical and Business Writting,CSXXX,BCS-5G/7G,Hajra Ikram,90 min
+Fri,10:00-11:30,F-206,Parallel and Distributed Computing,CS3006,BCS-7E/9E,Mr. Danyal Farhat,90 min
+Fri,10:00-11:30,F-207,Parallel and Distributed Computing,CS3006,BCS-7F/9F,Mr. Mubashar Hussain,90 min
+Fri,10:00-11:30,F-208,Data Warehousing and Business Intellligence,DS3004,BDS-7A/9A,Mr. Ishaq Raza,90 min
+Fri,10:00-11:30,F-209,MLOps,CS4085,BCS-7A,Mr. Usman Anwer,90 min
+Fri,10:00-11:30,F-210,Natural Language Processing,CS4063,BCS-9A,Ms. Mariam Nasim,90 min
+Fri,10:00-11:30,F-301,Advanced Operating System,CSXXX,MCS-1A,Dr. Zeeshan Ali Khan,90 min
+Fri,10:00-11:30,F-302,Programming Fundamentals,CS1002,BSE-1A,Ms. Anosha Khan,90 min
+Fri,10:00-11:30,F-303,Applied Physics,NS1001,BSE-1B,Mr. Faizan Saleem VF,90 min
+Fri,10:00-11:30,F-304,Anthropology,XXXXX,BSE-1C,TBA,90 min
+Fri,10:00-11:30,F-305,Computer Organization and Assembly Language,EE2003,BSE-3B,TBA,90 min
+Fri,10:00-11:30,F-306,Computer Organization and Assembly Language,EE2003,BSE-3C,TBA,90 min
+Fri,10:00-11:30,F-307,Information Security,CS3002,BSE-7B,Ms. Sarah Abid Khan,90 min
+Fri,10:00-11:30,F-308,Parallel and Distributed Computing,CS3006,BSE-7A,Mr. Razi uddin,90 min
+Fri,10:00-11:30,F-309,Calculus and Analytical Geometry,MT1003,BDS-1B,Dr. Komal Hassan VF,90 min
+Fri,10:00-11:30,F-310,Introduction to Data Science,DS2001,BDS-3A,Dr. Asma Ahmad,90 min
+Fri,10:00-11:30,F-311,Natural Language Processing,DS5007,MDS-1A,Dr. Hajra Waheed,90 min
+Fri,10:00-11:30,F-312,Advanced Topics in Generative AI,AI5004,MDS-3A,Dr. Maryam Bashir,90 min
+Fri,10:00-11:30,S. Hall,Psychology,SS2019,BCY-1B,TBA,90 min
+Fri,11:30-13:00,C-1,Programming Fundamentals,CS1002,BCS-1D/3D,Ms. Namra Absar,90 min
+Fri,11:30-13:00,C-13,Calculus and Analytical Geometry,MT1003,BCS-1B/3B,Dr. Saeeda Zia,90 min
+Fri,11:30-13:00,C-14,Ideology and Consittution of Pakistan,SS1013,BCS-1C/3C,Dr.Abdul Sattar,90 min
+Fri,11:30-13:00,C-2,Islamic Studies/Ethics,SS1007,BCS-1A/3A,Qurat ul Ain Fatima,90 min
+Fri,11:30-13:00,C-3,Functional English,SS1012,BCS-1E/3E,Dr. Kulsoom,90 min
+Fri,11:30-13:00,C-4,Data Structures,CS2001,BCS-3D/5D,Dr. Saira Karim,90 min
+Fri,11:30-13:00,C-5,Computer Organization and Assembly Language,EE2003,BCS-3C/5C,Ms. Samin Iftikhar,90 min
+Fri,11:30-13:00,C-6,Computer Organization and Assembly Language,EE2003,BCS-3E/5E,Ms. Aleena Ahmad,90 min
+Fri,11:30-13:00,C-7,Computer Organization and Assembly Language,EE2003,BCS-3H/5H,Mr. Waqar Baig,90 min
+Fri,11:30-13:00,D-11,Discrete Structures,CS1005,BCS-3G/5G,Ms. Mehwish Afshan,90 min
+Fri,11:30-13:00,Eng Lab-1,Parallel and Distributed Computing,CS3006,BSE-7A,Mr. Razi uddin,90 min
+Fri,11:30-13:00,Eng Lab-2,DevOps,CS4067,BSE-7B,Mr. Durraiz Waseem,90 min
+Fri,11:30-13:00,Eng Lab-3,Fundamentals of Software Project Management,SE4002,BSE-9A,TBA,90 min
+Fri,11:30-13:00,Eng Lab-4,MS Practicum - II,CS5088,MSP-5A,TBA,90 min
+Fri,11:30-13:00,Eng Lab-5,Calculus and Analytical Geometry,MT1003,BDS-1B,Dr. Komal Hassan VF,90 min
+Fri,11:30-13:00,Eng Lab-6,Introduction to Data Science,DS2001,BDS-3A,Dr. Asma Ahmad,90 min
+Fri,11:30-13:00,F-201,Linear Algebra,MT1004,BCS-3F/5F,Dr. Muhammad Rizwan VF,90 min
+Fri,11:30-13:00,F-202,Understanding Holy Quran - I /Ethics - I,SS1021,BCS-3B/5B,Mr. Naseer Ahmad,90 min
+Fri,11:30-13:00,F-203,Computer Networks,CS3001,BCS-5E/7E,Mr. Nauman Moazzam Hayat,90 min
+Fri,11:30-13:00,F-204,Computer Networks,CS3001,BCS-5G/7G,Ms. Sarah Khaleel,90 min
+Fri,11:30-13:00,F-205,Software Engineering,CS3009,BCS-5D/7D,Mr. Zeeshan Nazar,90 min
+Fri,11:30-13:00,F-206,Technical and Business Writting,CSXXX,BCS-5C/7C,Uzma Safdar,90 min
+Fri,11:30-13:00,F-207,Technical and Business Writting,CSXXX,BCS-5H/7H,Razm ul Zafar,90 min
+Fri,11:30-13:00,F-208,Information Security,CS3002,BCS-7A/9A,Dr. Ammar Haider,90 min
+Fri,11:30-13:00,F-209,Information Security,CS3002,BCS-7E/9E,Ms. Aqsa Khalid,90 min
+Fri,11:30-13:00,F-210,Compiler Construction,CS4031,BCS-7K/9K,Dr. Farooq Ahmed Rana,90 min
+Fri,11:30-13:00,F-301,Parallel and Distributed Computing,CS3006,BCS-7D/9D,Mr. Danyal Farhat,90 min
+Fri,11:30-13:00,F-302,Design and Analysis of Algorithms,CS2009,BDS-5B/7B,Mr. Sajid Ali Kazmi,90 min
+Fri,11:30-13:00,F-303,Data Analysis and Visualization,DS3001,BDS-5A/7A,Mr. Amir Iqbal,90 min
+Fri,11:30-13:00,F-304,Understanding Holy Quran - II /Ethics - II,SS1022,BCS-3A,TBA,90 min
+Fri,11:30-13:00,F-305,Computer Organization and Assembly Language,EE2003,BCS-5M,TBA,90 min
+Fri,11:30-13:00,F-306,MLOps,CS4085,BCS-7B,Mr. Usman Anwer,90 min
+Fri,11:30-13:00,F-307,French Language,SS2031,BCS-9A,TBA,90 min
+Fri,11:30-13:00,F-308,Advanced Theory of Computation,CS5005,MCS-1A,Dr. Imran Farid Khan,90 min
+Fri,11:30-13:00,F-309,Programming Fundamentals,CS1002,BSE-1B,Ms. Anosha Khan,90 min
+Fri,11:30-13:00,F-310,Applied Physics,NS1001,BSE-1A,Mr. Faizan Saleem VF,90 min
+Fri,11:30-13:00,F-311,Calculus and Analytical Geometry,MT1003,BSE-1C,TBA,90 min
+Fri,11:30-13:00,F-312,Introduction to Software Engineering,SE1001,BSE-3B,Dr. Zeeshan Ali Rana,90 min
+Fri,11:30-13:00,Lab-1,MLOps,CS4085,BDS-7A,Dr. Irfan Younas,90 min
+Fri,11:30-13:00,Lab-13,Software for Mobile Devices,CS4039,BDS-9A,Mr. Waqas Ali,90 min
+Fri,11:30-13:00,Lab-14,Statistical and Mathematical Methods for Data Science,DS5003,MDS-1A,Dr. Mubasher Baig,90 min
+Fri,11:30-13:00,Lab-15,Advanced Topics in Generative AI,AI5004,MDS-3A,Dr. Maryam Bashir,90 min
+Fri,11:30-13:00,Lab-16,Calculus and Analytical Geometry,MT1003,BCY-1A,Ms. Amina Aslam VF,90 min
+Fri,11:30-13:00,Lab-17,Ideology and Constitution of Pakistan,SS1013,BCY-1B,TBA,90 min
+Fri,11:30-13:00,Lab-18,Mathematics for Computational Intelligence,CSXXXX,MCI-1A,TBA,90 min
+Fri,11:30-13:00,S. Hall,Artificial Intelligence,AI2002,BSE-5A,Dr. Hajra Waheed,90 min
+Fri,13:00-14:30,C-1,Programming Fundamentals,CS1002,BCS-1C/3C,Mr. Muhammad Kamran,90 min
+Fri,13:00-14:30,C-13,Programming Fundamentals,CS1002,BCS-1E/3E,Ms. Namra Absar,90 min
+Fri,13:00-14:30,C-14,Ideology and Consittution of Pakistan,SS1013,BCS-1D/3D,Dr.Abdul Sattar,90 min
+Fri,13:00-14:30,C-2,Islamic Studies/Ethics,SS1007,BCS-1B/3B,Qurat ul Ain Fatima,90 min
+Fri,13:00-14:30,C-3,Data Structures,CS2001,BCS-3B/5B,Dr. Zareen Alamgir,90 min
+Fri,13:00-14:30,C-4,Data Structures,CS2001,BCS-3C/5C,Dr. Saira Karim,90 min
+Fri,13:00-14:30,C-5,Data Structures,CS2001,BCS-3E/5E,Mr. Muhammad Naveed,90 min
+Fri,13:00-14:30,C-6,Computer Organization and Assembly Language,EE2003,BCS-3A/5A,Dr. Aatira Anum,90 min
+Fri,13:00-14:30,C-7,Computer Organization and Assembly Language,EE2003,BCS-3D/5D,Ms. Samin Iftikhar,90 min
+Fri,13:00-14:30,D-11,Computer Organization and Assembly Language,EE2003,BCS-3F/5F,Ms. Aleena Ahmad,90 min
+Fri,13:00-14:30,Eng Lab-1,Operating Systems Lab,CL2006,BSE-5A,TBA,90 min
+Fri,13:00-14:30,Eng Lab-2,Programming Fundamentals,CS1002,BDS-1B,Ms. Anosha Khan,90 min
+Fri,13:00-14:30,Eng Lab-3,Calculus and Analytical Geometry,MT1003,BDS-1C,TBA,90 min
+Fri,13:00-14:30,Eng Lab-4,Functional English,SS1012,BDS-1A,Dr. Kulsoom,90 min
+Fri,13:00-14:30,Eng Lab-5,Data Structures,CS2001,BDS-3A,Mr. Uzair Naqvi,90 min
+Fri,13:00-14:30,Eng Lab-6,Introduction to Data Science,DS2001,BDS-3B,Ms. Eesha tur Razia,90 min
+Fri,13:00-14:30,F-201,Discrete Structures,CS1005,BCS-3G/5G,Ms. Mehwish Afshan,90 min
+Fri,13:00-14:30,F-202,Computer Networks,CS3001,BCS-5A/7A,Dr. Abdul Qadeer,90 min
+Fri,13:00-14:30,F-203,Computer Networks,CS3001,BCS-5C/7C,Dr. Ahmad Raza,90 min
+Fri,13:00-14:30,F-204,Computer Networks,CS3001,BCS-5H/7H,Ms. Sarah Khaleel,90 min
+Fri,13:00-14:30,F-205,Design and Anlysis of Algorithms,CS2009,BCS-5E/7E,Ms. Abeeda Akram,90 min
+Fri,13:00-14:30,F-206,Technical and Business Writting,CSXXX,BCS-5D/7D,Uzma Safdar,90 min
+Fri,13:00-14:30,F-207,Information Security,CS3002,BCS-7E/9E,Ms. Aqsa Khalid,90 min
+Fri,13:00-14:30,F-208,Information Security,CS3002,BCS-7H/9H,Mr. Usman Aamer,90 min
+Fri,13:00-14:30,F-209,Compiler Construction,CS4031,BCS-7D/9D,Mr. Hamad ul Qudous,90 min
+Fri,13:00-14:30,F-210,Compiler Construction,CS4031,BCS-7K/9K,Dr. Farooq Ahmed Rana,90 min
+Fri,13:00-14:30,F-301,Parallel and Distributed Computing,CS3006,BCS-7C/9C,Mr. Danyal Farhat,90 min
+Fri,13:00-14:30,F-302,Design and Analysis of Algorithms,CS2009,BSE-5B/7B,Dr. Tahir Ejaz,90 min
+Fri,13:00-14:30,F-303,MLOps,CS4085,BCS-7B,Mr. Usman Anwer,90 min
+Fri,13:00-14:30,F-304,Database Systems,CS2005,BCS-7A,Mr. Ishaq Raza (VF),90 min
+Fri,13:00-14:30,F-305,Numerical Computing,CS2008,BCS-9A,TBA,90 min
+Fri,13:00-14:30,F-306,Advanced Theory of Computation,CS5005,MCS-1A,Dr. Imran Farid Khan,90 min
+Fri,13:00-14:30,F-307,MS Thesis - II,CS5092,MCS-5A,TBA,90 min
+Fri,13:00-14:30,F-308,Applied Physics,NS1001,BSE-1B,Mr. Faizan Saleem VF,90 min
+Fri,13:00-14:30,F-309,Computer Organization and Assembly Language,EE2003,BSE-3A,TBA,90 min
+Fri,13:00-14:30,F-310,Introduction to Software Engineering,SE1001,BSE-3B,Dr. Zeeshan Ali Rana,90 min
+Fri,13:00-14:30,F-311,Information Security,CS3002,BSE-7A,Ms. Sarah Abid Khan,90 min
+Fri,13:00-14:30,F-312,Parallel and Distributed Computing,CS3006,BSE-7B,Mr. Razi uddin,90 min
+Fri,13:00-14:30,Lab-1,Technical and Business Writing,SS2012,BDS-5A,Iqra Rafiq,90 min
+Fri,13:00-14:30,Lab-13,Generative AI,AI4009,BDS-7A,Dr. Maryam Bashir,90 min
+Fri,13:00-14:30,Lab-14,Statistical and Mathematical Methods for Data Science,DS5003,MDS-1A,Dr. Mubasher Baig,90 min
+Fri,13:00-14:30,Lab-15,MS Thesis-I,DS5091,MDS-3A,TBA,90 min
+Fri,13:00-14:30,Lab-16,Islamic Studies/Ethics,SS1007,BAI-1A,Hafiz Hamza Janjua,90 min
+Fri,13:00-14:30,Lab-17,Programming Fundamentals,CS1002,BCY-1B,TBA,90 min
+Fri,13:00-14:30,Lab-18,Functional English,SS1012,BCY-1A,Ms. Zakia Naeem,90 min
+Fri,13:00-14:30,Lab-2,Advanced Network Security,CY5006,MCY-1A,Dr. Arshad Ali,90 min
+Fri,13:00-14:30,Lab-3,Database and Operating Systems,CSXXXX,MCI-1A,TBA,90 min
+Fri,13:00-14:30,S. Hall,MS Thesis - II,CS5092,MSP-5A,TBA,90 min
+Fri,14:30-16:00,C-1,Introduction to Information and Communication Technology,CL1000,BCS-1B/3B,Ms. Mamoona Majid,90 min
+Fri,14:30-16:00,C-13,Introduction to Information and Communication Technology,CL1000,BCS-1G/3G,Ms. Ansa Liaqat,90 min
+Fri,14:30-16:00,C-14,Calculus and Analytical Geometry,MT1003,BCS-1E/3E,Dr. Mazhar Hussain,90 min
+Fri,14:30-16:00,C-2,Ideology and Consittution of Pakistan,SS1013,BCS-1C/3C,Dr.Abdul Sattar,90 min
+Fri,14:30-16:00,C-3,Islamic Studies/Ethics,SS1007,BCS-1D/3D,Dr.Adnan Faisal,90 min
+Fri,14:30-16:00,C-4,Data Structures,CS2001,BCS-3A/5A,Dr. Zareen Alamgir,90 min
+Fri,14:30-16:00,C-5,Data Structures,CS2001,BCS-3F/5F,Mr. Muhammad Naveed,90 min
+Fri,14:30-16:00,C-6,Discrete Structures,CS1005,BCS-3E/5E,Ms. Rubab Janjua,90 min
+Fri,14:30-16:00,C-7,Applied Human Computer Interaction,CS3014,BCS-5A/7A,Ms. Sukhan Amir,90 min
+Fri,14:30-16:00,D-11,Applied Human Computer Interaction,CS3014,BCS-5D/7D,Mr. Waqas Manzoor,90 min
+Fri,14:30-16:00,Eng Lab-1,Computer Organization and Assembly Language Lab,EL2003,BCS-3B/5B,Ms. Seemab Ayub,90 min
+Fri,14:30-16:00,Eng Lab-2,Computer Organization and Assembly Language Lab,EL2003,BCS-3D/5D,TBA,90 min
+Fri,14:30-16:00,Eng Lab-3,Computer Organization and Assembly Language Lab,EL2003,BCS-3G/5G,TBA,90 min
+Fri,14:30-16:00,Eng Lab-4,Web Programming,CS4032,BDS-7A,Ms. Mahhek Tahir,90 min
+Fri,14:30-16:00,Eng Lab-5,Data Science Tools and Technique,DS5002,MDS-1A,Dr. Asma Ahmad,90 min
+Fri,14:30-16:00,Eng Lab-6,Advanced Topics in Generative AI,AI5004,MDS-3A,Dr. Maryam Bashir,90 min
+Fri,14:30-16:00,F-201,Computer Architecture,CS4075,BCS-5H/7H,Mr. Junaid Hussain Muzammil,90 min
+Fri,14:30-16:00,F-202,Computer Networks,CS3001,BCS-5C/7C,Dr. Ahmad Raza,90 min
+Fri,14:30-16:00,F-203,Information Security,CS3002,BCS-7E/9E,Ms. Aqsa Khalid,90 min
+Fri,14:30-16:00,F-204,Information Security,CS3002,BCS-7J/9J,Mr. Usman Aamer,90 min
+Fri,14:30-16:00,F-205,Compiler Construction,CS4031,BCS-7K/9K,Dr. Farooq Ahmed Rana,90 min
+Fri,14:30-16:00,F-206,Parallel and Distributed Computing,CS3006,BCS-7B/9B,Dr. Abdul Qadeer,90 min
+Fri,14:30-16:00,F-207,Parallel and Distributed Computing,CS3006,BCS-7H/9H,Mr. Razi uddin,90 min
+Fri,14:30-16:00,F-208,MLOps,CS4085,BCS-7A,Mr. Usman Anwer,90 min
+Fri,14:30-16:00,F-209,Introduction to Cloud Computing,CS4037,BCS-9A,Mr. Muhammad Kamran,90 min
+Fri,14:30-16:00,F-210,MS Thesis - I,CS5091,MCS-5A,TBA,90 min
+Fri,14:30-16:00,F-301,Calculus and Analytical Geometry,MT1003,BSE-1B,Dr. Muhammad Nasir Ali VF,90 min
+Fri,14:30-16:00,F-302,Introduction to Software Engineering,SE1001,BSE-3B,Dr. Zeeshan Ali Rana,90 min
+Fri,14:30-16:00,F-303,Operating Systems,CS2006,BSE-5A,Mr. Razi uddin (VF),90 min
+Fri,14:30-16:00,F-304,Final Year Project -I,SE4091,BSE-7A,TBA,90 min
+Fri,14:30-16:00,F-305,Research Methodology,CS5001,MSP-1A,Dr. Asif Gillani,90 min
+Fri,14:30-16:00,F-306,Human Resource Management,MG5043,MSP-3A,Mr. Hasan Shehzad,90 min
+Fri,14:30-16:00,F-307,MS Thesis - II,CS5092,MSP-5A,TBA,90 min
+Fri,14:30-16:00,F-308,Programming Fundamentals,CS1002,BDS-1B,Ms. Anosha Khan,90 min
+Fri,14:30-16:00,F-309,Islamic Studies,SS1007,BDS-1A,Dr. Adnan Faisal,90 min
+Fri,14:30-16:00,F-310,Understanding Seerat-un-Nabi (PBUH),SS1019,BDS-1C,TBA,90 min
+Fri,14:30-16:00,F-311,Data Structures,CS2001,BDS-3B,Mr. Uzair Naqvi,90 min
+Fri,14:30-16:00,F-312,Computer Organization and Assembly Language,EE2003,BDS-3A,Ms. Sana Fatima,90 min
+Fri,14:30-16:00,Lab-1,Programming Fundamentals,CS1002,BAI-1A,Dr. Mubasher Baig,90 min
+Fri,14:30-16:00,Lab-13,Calculus and Analytical Geometry,MT1003,BCY-1B,TBA,90 min
+Fri,14:30-16:00,Lab-14,Ideology and Constitution of Pakistan,SS1013,BCY-1A,Muhammad Asif,90 min
+Fri,14:30-16:00,Lab-15,Mathematics for Computational Intelligence,CSXXXX,MCI-1A,TBA,90 min
+Fri,14:30-16:00,S. Hall,Technical and Business Writing,SS2012,BDS-5A,Iqra Rafiq,90 min
+Fri,16:00-17:30,C-1,Ideology and Consittution of Pakistan,SS1013,BCS-1G/3G,Muhammad Tahir Rahisd,90 min
+Fri,16:00-17:30,C-13,Functional English,SS1012,BCS-1E/3E,Dr. Kulsoom,90 min
+Fri,16:00-17:30,C-14,Software Engineering,CS3009,BCS-5A/7A,Ms. Lehmia Kiran,90 min
+Fri,16:00-17:30,C-2,Compiler Construction,CS4031,BCS-7B/9B,Mr. Aamir Raheem,90 min
+Fri,16:00-17:30,C-3,Software Evolution and Re-Engineering,CSXXX,BCS-7A,Mr. Arslan Asif,90 min
+Fri,16:00-17:30,C-4,Ideology and Constitution of Pakistan,SS1013,BSE-1B,Quratulain Ilyas,90 min
+Fri,16:00-17:30,C-5,Programming Fundamentals,CS1002,BDS-1B,Ms. Anosha Khan,90 min
+Fri,16:00-17:30,C-6,Technical and Business Writing,SS2012,BDS-5A,Iqra Rafiq,90 min
+Fri,17:30-19:00,C-1,Functional English,SS1012,BCS-1G/3G,Dr. Kulsoom,90 min
+Fri,17:30-19:00,C-13,Parallel and Distributed Computing,CS3006,BCS-7B/9B,Dr. Abdul Qadeer,90 min
+Fri,17:30-19:00,C-14,Database Systems,CS2005,BCS-7A,Mr. Ishaq Raza (VF),90 min
+Sat,08:30-10:00,C-1,Introduction to Information and Communication Technology,CL1000,BCS-1D/3D,Ms. Maimoona Akram,90 min
+Sat,08:30-10:00,C-13,Data Structures,CS2001,BCS-3E/5E,Mr. Muhammad Naveed,90 min
+Sat,08:30-10:00,C-14,Computer Organization and Assembly Language,EE2003,BCS-3B/5B,Dr. Aatira Anum,90 min
+Sat,08:30-10:00,C-2,Discrete Structures,CS1005,BCS-3F/5F,Ms. Rubab Janjua,90 min
+Sat,08:30-10:00,C-3,Linear Algebra,MT1004,BCS-3H/5H,VF,90 min
+Sat,08:30-10:00,C-4,Understanding Holy Quran - I /Ethics - I,SS1021,BCS-3D/5D,TBA,90 min
+Sat,08:30-10:00,C-5,Applied Human Computer Interaction,CS3014,BCS-5B/7B,Ms. Sukhan Amir,90 min
+Sat,08:30-10:00,C-6,Computer Networks,CS3001,BCS-5G/7G,Ms. Sarah Khaleel,90 min
+Sat,08:30-10:00,C-7,Technical and Business Writting,CSXXX,BCS-5F/7F,Razm ul Zafar,90 min
+Sat,08:30-10:00,D-11,Information Security,CS3002,BCS-7D/9D,Ms. Aqsa Khalid,90 min
+Sat,08:30-10:00,Eng Lab-1,Functional English Lab,SL1012,BCS-1A1/3A1,TBA,90 min
+Sat,08:30-10:00,Eng Lab-2,Function English Lab,SL1012,BDS-1B1,TBA,90 min
+Sat,08:30-10:00,F-201,Compiler Construction,CS4031,BCS-7F/9F,Mr. Hamad ul Qudous,90 min
+Sat,08:30-10:00,F-202,Design and Analysis of Algorithms,CS2009,BDS-5A/7A,Mr. Sajid Ali Kazmi,90 min
+Sat,08:30-10:00,F-203,Data Science,CS4048,BCS-7A,Dr. Sobia Tariq Javed,90 min
+Sat,08:30-10:00,F-204,Computer Networks,CS3001,BCS-7M,TBA,90 min
+Sat,08:30-10:00,F-205,Numerical Computing,CS2008,BCS-9A,TBA,90 min
+Sat,08:30-10:00,F-206,Programming Fundamentals,CS1002,BSE-1C,TBA,90 min
+Sat,08:30-10:00,F-207,Software Construction and Development,SE3005,BSE-5B,Mr. Arslan Asif,90 min
+Sat,08:30-10:00,F-208,Parallel and Distributed Computing,CS3006,BSE-7B,Mr. Razi uddin,90 min
+Sat,08:30-10:00,F-209,Introduction to Data Science,DS2001,BDS-3B,Ms. Eesha tur Razia,90 min
+Sat,08:30-10:00,F-210,French Language,SS2031,BDS-7B,TBA,90 min
+Sat,08:30-10:00,F-301,Introduction to Information and Communication Technology,CL1001,BAI-1A1,Ms. Maham Naeem,90 min
+Sat,10:00-11:30,C-1,Programming Fundamentals,CS1002,BCS-1A/3A,TBA,90 min
+Sat,10:00-11:30,C-13,Calculus and Analytical Geometry,MT1003,BCS-1D/3D,Dr. Mazhar Hussain,90 min
+Sat,10:00-11:30,C-14,Computer Organization and Assembly Language,EE2003,BCS-3A/5A,Dr. Aatira Anum,90 min
+Sat,10:00-11:30,C-2,Linear Algebra,MT1004,BCS-3H/5H,VF,90 min
+Sat,10:00-11:30,C-3,Applied Human Computer Interaction,CS3014,BCS-5E/7E,Mr. Waqas Manzoor,90 min
+Sat,10:00-11:30,C-4,Design and Anlysis of Algorithms,CS2009,BCS-5F/7F,Mr. Sajid Ali Kazmi,90 min
+Sat,10:00-11:30,C-5,Technical and Business Writting,CSXXX,BCS-5C/7C,Uzma Safdar,90 min
+Sat,10:00-11:30,C-6,Data Analysis and Visualization,DS3001,BDS-5B/7B,Mr. Amir Iqbal,90 min
+Sat,10:00-11:30,C-7,Understanding Holy Quran - II /Ethics - II,SS1022,BCS-3F,TBA,90 min
+Sat,10:00-11:30,D-11,Final Year Project - I,CS4091,BCS-7A,TBA,90 min
+Sat,10:00-11:30,Eng Lab-1,Programming Fundamentals Lab,CL1002,BCS-1G/3G,Ms. Marwa Khan,90 min
+Sat,10:00-11:30,Eng Lab-2,Functional English Lab,SL1012,BCS-1F2/3F2,TBA,90 min
+Sat,10:00-11:30,Eng Lab-3,Data Structures Lab,CL2001,BCS-3B/5B,TBA,90 min
+Sat,10:00-11:30,Eng Lab-4,Data Structures Lab,CL2001,BCS-3G/5G,TBA,90 min
+Sat,10:00-11:30,Eng Lab-5,Artificial Intelligence - Lab,AL2002,BSE-5B,TBA,90 min
+Sat,10:00-11:30,Eng Lab-6,Computer Networks Lab,CL3001,BDS-7B,TBA,90 min
+Sat,10:00-11:30,F-201,Data Science,CS4048,BCS-7B,Dr. Sobia Tariq Javed,90 min
+Sat,10:00-11:30,F-202,Computer Networks,CS3001,BCS-7M,TBA,90 min
+Sat,10:00-11:30,F-203,Final Year Project - II,CS4092,BCS-9A,TBA,90 min
+Sat,10:00-11:30,F-204,MS Thesis - II,CS5092,MCS-5A,TBA,90 min
+Sat,10:00-11:30,F-205,Ideology and Constitution of Pakistan,SS1013,BSE-1C,TBA,90 min
+Sat,10:00-11:30,F-206,Probability and Statistics,MT2005,BSE-3B,Ms. Kanwal Saleem,90 min
+Sat,10:00-11:30,F-207,Parallel and Distributed Computing,CS3006,BSE-7A,Mr. Razi uddin,90 min
+Sat,10:00-11:30,F-208,MS Practicum - II,CS5088,MSP-5A,TBA,90 min
+Sat,10:00-11:30,F-209,Islamic Studies,SS1007,BDS-1A,Dr. Adnan Faisal,90 min
+Sat,10:00-11:30,F-210,Computer Organization and Assembly Language,EE2003,BDS-3B,Ms. Sana Fatima,90 min
+Sat,10:00-11:30,F-301,Artificial Intelligence,AI2002,BDS-5A,Dr. Hajra Waheed,90 min
+Sat,10:00-11:30,F-302,Deep Learning for Perception,CS4045,BDS-7A,Mr. Saiful Islam,90 min
+Sat,10:00-11:30,F-303,Linear Algebra,MT1004,BAI-3A,Dr. Aziz Ur Rehman VF,90 min
+Sat,11:30-13:00,C-1,Calculus and Analytical Geometry,MT1003,BCS-1D/3D,Dr. Mazhar Hussain,90 min
+Sat,11:30-13:00,C-13,Calculus and Analytical Geometry,MT1003,BCS-1G/3G,Mr. Waqar Azeem VF,90 min
+Sat,11:30-13:00,C-14,Islamic Studies/Ethics,SS1007,BCS-1E/3E,Qurat ul Ain Fatima,90 min
+Sat,11:30-13:00,C-2,Computer Organization and Assembly Language,EE2003,BCS-3B/5B,Dr. Aatira Anum,90 min
+Sat,11:30-13:00,C-3,Linear Algebra,MT1004,BCS-3G/5G,Dr. Muhammad Rizwan VF,90 min
+Sat,11:30-13:00,C-4,Understanding Holy Quran - I /Ethics - I,SS1021,BCS-3H/5H,Mr. Naseer Ahmad,90 min
+Sat,11:30-13:00,C-5,Applied Human Computer Interaction,CS3014,BCS-5F/7F,Ms. Bushra Habib,90 min
+Sat,11:30-13:00,C-6,Computer Networks,CS3001,BCS-5C/7C,Dr. Ahmad Raza,90 min
+Sat,11:30-13:00,C-7,Technical and Business Writting,CSXXX,BCS-5E/7E,Uzma Safdar,90 min
+Sat,11:30-13:00,D-11,Information Security,CS3002,BCS-7A/9A,Dr. Ammar Haider,90 min
+Sat,11:30-13:00,Eng Lab-1,Data Structures Lab,CL2001,BCS-3F/5F,TBA,90 min
+Sat,11:30-13:00,F-201,Compiler Construction,CS4031,BCS-7J/9J,Dr. Farooq Ahmed Rana,90 min
+Sat,11:30-13:00,F-202,Parallel and Distributed Computing,CS3006,BCS-7H/9H,Mr. Razi uddin,90 min
+Sat,11:30-13:00,F-203,Design and Analysis of Algorithms,CS2009,BDS-5B/7B,Mr. Sajid Ali Kazmi,90 min
+Sat,11:30-13:00,F-204,Data Analysis and Visualization,DS3001,BDS-5A/7A,Mr. Amir Iqbal,90 min
+Sat,11:30-13:00,F-205,Embedded Control for Robotics,CS4095,BCS-9A,TBA,90 min
+Sat,11:30-13:00,F-206,MS Thesis - I,CS5091,MCS-5A,TBA,90 min
+Sat,11:30-13:00,F-207,Calculus and Analytical Geometry,MT1003,BSE-1A,Dr. Muhammad Nasir Ali VF,90 min
+Sat,11:30-13:00,F-208,Computer Organization and Assembly Language,EE2003,BSE-3B,TBA,90 min
+Sat,11:30-13:00,F-209,Probability and Statistics,MT2005,BSE-3A,Ms. Kanwal Saleem,90 min
+Sat,11:30-13:00,F-210,Technical and Business Writing,SS2012,BSE-5B,Huma Asif,90 min
+Sat,11:30-13:00,F-301,Information Security,CS3002,BSE-7A,Ms. Sarah Abid Khan,90 min
+Sat,11:30-13:00,F-302,Software Construction and Development,SE3001,BSE-9A,TBA,90 min
+Sat,11:30-13:00,F-303,Functional English,SS1012,BDS-1A,Dr. Kulsoom,90 min
+Sat,11:30-13:00,F-304,Deep Learning for Perception,CS4045,BDS-7A,Mr. Saiful Islam,90 min
+Sat,11:30-13:00,F-305,Natural Language Processing,DS5007,MDS-1A,Dr. Hajra Waheed,90 min
+Sat,11:30-13:00,F-306,Computer Organization and Assembly Language,EE2003,BAI-3A,Ms. Sana Fatima,90 min
+Sat,11:30-13:00,F-307,Programming Fundamentals,CS1002,BCY-1B,TBA,90 min
+Sat,11:30-13:00,F-308,Ideology and Constitution of Pakistan,SS1013,BCY-1A,Muhammad Asif,90 min
+Sat,11:30-13:00,F-309,Advanced Network Security,CY5006,MCY-1A,Dr. Arshad Ali,90 min
+Sat,13:00-14:30,C-1,Programming Fundamentals,CS1002,BCS-1G/3G,Mr. Saifullah Tanvir,90 min
+Sat,13:00-14:30,C-13,Calculus and Analytical Geometry,MT1003,BCS-1C/3C,Dr. Saeeda Zia,90 min
+Sat,13:00-14:30,C-14,Ideology and Consittution of Pakistan,SS1013,BCS-1E/3E,Muhammad Tahir Rahisd,90 min
+Sat,13:00-14:30,C-2,Islamic Studies/Ethics,SS1007,BCS-1F/3F,Dr. Adnan Faisal,90 min
+Sat,13:00-14:30,C-3,Functional English,SS1012,BCS-1D/3D,Ms. Nokhaiz Zahra,90 min
+Sat,13:00-14:30,C-4,Data Structures,CS2001,BCS-3H/5H,Ms. Rida Hijab Basit,90 min
+Sat,13:00-14:30,C-5,Computer Organization and Assembly Language,EE2003,BCS-3A/5A,Dr. Aatira Anum,90 min
+Sat,13:00-14:30,C-6,Linear Algebra,MT1004,BCS-3B/5B,Dr. Akhlaq Ahmad Bhatti,90 min
+Sat,13:00-14:30,C-7,Linear Algebra,MT1004,BCS-3F/5F,Dr. Muhammad Rizwan VF,90 min
+Sat,13:00-14:30,D-11,Applied Human Computer Interaction,CS3014,BCS-5F/7F,Ms. Bushra Habib,90 min
+Sat,13:00-14:30,Eng Lab-1,Computer Organization and Assembly Language,EE2003,BAI-3A,Ms. Sana Fatima,90 min
+Sat,13:00-14:30,Eng Lab-2,Programming Fundamentals,CS1002,BCY-1B,TBA,90 min
+Sat,13:00-14:30,Eng Lab-3,Applied Physics,NS1001,BCY-1A,Dr. Saman Shahid,90 min
+Sat,13:00-14:30,Eng Lab-4,Data Structures,CS2001,BCY-3A,Mr. Usama Alvi,90 min
+Sat,13:00-14:30,F-201,Computer Architecture,CS4075,BCS-5H/7H,Mr. Junaid Hussain Muzammil,90 min
+Sat,13:00-14:30,F-202,Design and Anlysis of Algorithms,CS2009,BCS-5C/7C,Dr. Aasim Qureshi,90 min
+Sat,13:00-14:30,F-203,Software Engineering,CS3009,BCS-5A/7A,Ms. Lehmia Kiran,90 min
+Sat,13:00-14:30,F-204,Technical and Business Writting,CSXXX,BCS-5B/7B,Hajra Ikram,90 min
+Sat,13:00-14:30,F-205,Technical and Business Writting,CSXXX,BCS-5E/7E,Uzma Safdar,90 min
+Sat,13:00-14:30,F-206,Information Security,CS3002,BCS-7H/9H,Mr. Usman Aamer,90 min
+Sat,13:00-14:30,F-207,Compiler Construction,CS4031,BCS-7G/9G,Dr. Faisal Aslam,90 min
+Sat,13:00-14:30,F-208,Parallel and Distributed Computing,CS3006,BCS-7J/9J,Mr. Mubashar Hussain,90 min
+Sat,13:00-14:30,F-209,Understanding Holy Quran - II /Ethics - II,SS1022,BCS-3G,TBA,90 min
+Sat,13:00-14:30,F-210,Database Systems,CS2005,BCS-7A,Mr. Ishaq Raza (VF),90 min
+Sat,13:00-14:30,F-301,Introduction to Cloud Computing,CS4037,BCS-9A,Mr. Muhammad Kamran,90 min
+Sat,13:00-14:30,F-302,Theory of Programming Languages,CS5006,MCS-1A,Dr. Farooq Ahmed Rana,90 min
+Sat,13:00-14:30,F-303,MS Thesis - I,CS5091,MCS-5A,TBA,90 min
+Sat,13:00-14:30,F-304,Functional English,SS1012,BSE-1A,Zainab Mubarak,90 min
+Sat,13:00-14:30,F-305,Probability and Statistics,MT2005,BSE-3B,Ms. Kanwal Saleem,90 min
+Sat,13:00-14:30,F-306,Artificial Intelligence,AI2002,BSE-5B,Ms. Bushra Rashid,90 min
+Sat,13:00-14:30,F-307,Deep Learning for Perception,CS4045,BSE-7A,Mr. Saiful Islam,90 min
+Sat,13:00-14:30,F-308,Software Construction and Development,SE3001,BSE-9A,TBA,90 min
+Sat,13:00-14:30,F-309,MS Thesis-I,CS5091,MSP-3A,TBA,90 min
+Sat,13:00-14:30,F-310,Programming Fundamentals,CS1002,BDS-1A,Dr. Mubasher Baig,90 min
+Sat,13:00-14:30,F-311,Data Warehousing and Business Intellligence,DS3004,BDS-5A,Mr. Ishaq Raza,90 min
+Sat,13:00-14:30,F-312,Technical and Business Writing,SS2012,BDS-5B,Huma Asif,90 min
+Sat,13:00-14:30,S. Hall,Computer Networks,CS3001,BDS-7A,Ms. Umm-e-Ammarah,90 min
+Sat,14:30-16:00,C-1,Calculus and Analytical Geometry,MT1003,BCS-1C/3C,Dr. Saeeda Zia,90 min
+Sat,14:30-16:00,C-13,Calculus and Analytical Geometry,MT1003,BCS-1F/3F,Mr. Waqar Azeem VF,90 min
+Sat,14:30-16:00,C-14,Islamic Studies/Ethics,SS1007,BCS-1B/3B,Qurat ul Ain Fatima,90 min
+Sat,14:30-16:00,C-2,Functional English,SS1012,BCS-1D/3D,Ms. Nokhaiz Zahra,90 min
+Sat,14:30-16:00,C-3,Data Structures,CS2001,BCS-3H/5H,Ms. Rida Hijab Basit,90 min
+Sat,14:30-16:00,C-4,Discrete Structures,CS1005,BCS-3B/5B,Dr. Imran Farid Khan,90 min
+Sat,14:30-16:00,C-5,Linear Algebra,MT1004,BCS-3A/5A,Dr. Akhlaq Ahmad Bhatti,90 min
+Sat,14:30-16:00,C-6,Understanding Holy Quran - I /Ethics - I,SS1021,BCS-3G/5G,TBA,90 min
+Sat,14:30-16:00,C-7,Computer Architecture,CS4075,BCS-5B/7B,Dr. Zeeshan Ali Khan,90 min
+Sat,14:30-16:00,D-11,Design and Anlysis of Algorithms,CS2009,BCS-5H/7H,Mr. Usama Alvi,90 min
+Sat,14:30-16:00,Eng Lab-1,Computer Networks Lab,CL3001,BCS-5C/7C,TBA,90 min
+Sat,14:30-16:00,Eng Lab-2,Functional English Lab,SL1012,BAI-1A2,TBA,90 min
+Sat,14:30-16:00,F-201,Information Security,CS3002,BCS-7K/9K,Mr. Usman Aamer,90 min
+Sat,14:30-16:00,F-202,Compiler Construction,CS4031,BCS-7H/9H,Dr. Faisal Aslam,90 min
+Sat,14:30-16:00,F-203,Compiler Construction,CS4031,BCS-7J/9J,Dr. Farooq Ahmed Rana,90 min
+Sat,14:30-16:00,F-204,Design and Analysis of Algorithms,CS2009,BSE-5A/7A,Dr. Aasim Qureshi,90 min
+Sat,14:30-16:00,F-205,MLOps,CS4085,BCS-7A,Mr. Usman Anwer,90 min
+Sat,14:30-16:00,F-206,Numerical Computing,CS2008,BCS-9A,TBA,90 min
+Sat,14:30-16:00,F-207,MS Thesis - I,CS5091,MCS-3A,TBA,90 min
+Sat,14:30-16:00,F-208,MS Thesis - II,CS5092,MCS-5A,TBA,90 min
+Sat,14:30-16:00,F-209,Ideology and Constitution of Pakistan,SS1013,BSE-1A,Quratulain Ilyas,90 min
+Sat,14:30-16:00,F-210,Probability and Statistics,MT2005,BSE-3B,Ms. Kanwal Saleem,90 min
+Sat,14:30-16:00,F-301,Software Quality Engineering,SE3002,BSE-5B,Dr. Ali Afzal Malik,90 min
+Sat,14:30-16:00,F-302,Final Year Project - II,SE4092,BSE-9A,TBA,90 min
+Sat,14:30-16:00,F-303,Research Methodology,CS5001,MSP-1A,Dr. Asif Gillani,90 min
+Sat,14:30-16:00,F-304,Human Resource Management,MG5043,MSP-3A,Mr. Hasan Shehzad,90 min
+Sat,14:30-16:00,F-305,Introduction to Information and Communication Technology,CL1000,BDS-1B,Ms. Mamoona Majid,90 min
+Sat,14:30-16:00,F-306,Computer Organization and Assembly Language,EE2003,BDS-3A,Ms. Sana Fatima,90 min
+Sat,14:30-16:00,F-307,Data Warehousing and Business Intellligence,DS3004,BDS-5A,Mr. Ishaq Raza,90 min
+Sat,14:30-16:00,F-308,Technical and Business Writing,SS2012,BDS-5B,Huma Asif,90 min
+Sat,14:30-16:00,F-309,Deep Learning for Perception,CS4045,BDS-7A,Mr. Saiful Islam,90 min
+Sat,14:30-16:00,F-310,MS Thesis-I,DS5091,MDS-3A,TBA,90 min
+Sat,14:30-16:00,F-311,Reserved for Maths,RXXXX,MCS-2A,TBA,90 min
+Sat,14:30-16:00,F-312,Programming Fundamentals,CS1002,BCY-1A,Ms. Mehwish Afshan,90 min
+Sat,16:00-17:30,C-1,Discrete Structures,CS1005,BCS-3G/5G,Ms. Mehwish Afshan,90 min
+Sat,16:00-17:30,C-13,Applied Human Computer Interaction,CS3014,BCS-5H/7H,Ms. Bushra Habib,90 min
+Sat,16:00-17:30,C-14,Applied Probability in Computing,CS4113,BDS-7A/BSE-9A,Dr. Ahmad Raza,90 min
+Sat,16:00-17:30,C-2,Final Year Project - I,CS4091,BCS-7A,TBA,90 min
+Sat,16:00-17:30,C-3,Ideology and Constitution of Pakistan,SS1013,BSE-1A,Quratulain Ilyas,90 min
+Sat,16:00-17:30,C-4,Anthropology,XXXXX,BSE-1B,Hamza Naeem,90 min
+Sat,16:00-17:30,C-5,Data Warehousing and Business Intellligence,DS3004,BDS-5B,Mr. Ishaq Raza,90 min
+Sat,16:00-17:30,C-6,Calculus and Analytical Geometry,MT1003,BCY-1A,Ms. Amina Aslam VF,90 min
+Sat,17:30-19:00,C-1,Computer Networks,CS3001,BCS-5D/7D,Mr. Nauman Moazzam Hayat,90 min
+Sat,17:30-19:00,C-13,Technical and Business Writting,CSXXX,BCS-5A/7A,Hajra Ikram,90 min
+Sat,17:30-19:00,C-14,Design and Analysis of Algorithms,CS2009,BSE-5B/7B,Dr. Tahir Ejaz,90 min
+Sat,17:30-19:00,C-2,Deep Learning,CSXXXX,BCS-7A,Mr. Saiful Islam,90 min
+Sat,17:30-19:00,C-3,Probability and Statistics,MT2005,BDS-3A,Ms. Sarah Ahmad,90 min
+Sat,17:30-19:00,C-4,Generative AI,AI4009,BDS-7A,Dr. Maryam Bashir,90 min

@@ -1,0 +1,31 @@
+======================================================================
+VALIDATION REPORT - AI-Assisted Timetable Generator
+======================================================================
+
+SOLVER RESULT
+  Status          : FEASIBLE
+  Objective value : 224.0
+  Wall time       : 120.76 s
+  Branches        : 2428561
+  Conflicts found : 159
+  Note            : A valid feasible timetable was found within the configured search limit, but optimality was not proven.
+
+ASSIGNMENTS
+  Total sessions scheduled : 1121
+
+======================================================================
+POST-SOLUTION INDEPENDENT VALIDATION REPORT
+======================================================================
+  [PASS] every_session_scheduled
+  [PASS] no_duplicate_assignments
+  [PASS] no_teacher_conflict
+  [PASS] no_section_conflict
+  [PASS] no_room_conflict
+  [PASS] valid_days
+  [PASS] valid_periods
+  [PASS] valid_rooms
+  [PASS] duration_respected
+  [PASS] room_restrictions_respected
+
+RESULT: VALIDATION PASSED
+======================================================================
